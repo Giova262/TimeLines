@@ -11,6 +11,7 @@ public class ControllerMenuPrincipal  {
 	
 	private Stage stage;
 	private LineaDeTiempo linea ;
+	private String nombreArchivo;
 
     
     public void  agregarEvento() throws IOException {
@@ -20,12 +21,19 @@ public class ControllerMenuPrincipal  {
     	ControllerAgregarEvento controller = loader.getController();
     	controller.setStage(stage);
     	controller.setLinea(linea);
+    	controller.setNombreArchivo(nombreArchivo);
     	stage.setScene(new Scene(root,1200,640));
       	
     }
     
-    public void  salirDelPrograma() {
-    	this.stage.close();
+    public void  salirDelPrograma() throws IOException {
+    	
+    	FXMLLoader loader = new FXMLLoader(getClass().getResource("EscenaEleccionDeLinea.fxml"));
+    	Parent root = loader.load();
+    	ControllerEleccionDeLinea controller = loader.getController();
+    	controller.setStage(stage);
+    	controller.actualizar();
+    	stage.setScene(new Scene(root,1200,640));
     }
 
     public void  verLineasDeTiempo() throws IOException {
@@ -62,6 +70,7 @@ public class ControllerMenuPrincipal  {
 		ControllerEliminarEvento controller = loader.getController();
 		controller.setStage(this.stage);
 		controller.setLineaDeTiempo(this.linea);
+		controller.setNombreArchivo(nombreArchivo);
 		
 		this.stage.setScene(new Scene(root,1200,640));
 		
@@ -74,8 +83,15 @@ public class ControllerMenuPrincipal  {
 			ControllerModificarEvento controller = loader.getController();
 			controller.setStage(stage);
 			controller.setLineaDeTiempo(linea);
+			controller.setNombreArchivo(nombreArchivo);
 			controller.actualizar();
 			this.stage.setScene(new Scene(root,1200,640));
 	}
+
+	public void setNombreArchivo(String nombreArchivo) {
+		this.nombreArchivo = nombreArchivo;
+		
+	}
+
  
 }

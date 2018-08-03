@@ -26,6 +26,7 @@ public class ControllerAgregarEvento   {
 	@FXML private TextField t4;
 	@FXML private TextArea t5;
 	@FXML private TextField imagenName;
+	private String nombreArchivo;
 	
 	
 	public void siguienteBoton() throws IOException {
@@ -57,7 +58,7 @@ public class ControllerAgregarEvento   {
 		
 		linea.agregarEvento(evento);
 					
-		archivo.guardar(linea);
+		archivo.guardar(linea,nombreArchivo+".obj");
 			
 
 			
@@ -79,6 +80,11 @@ public class ControllerAgregarEvento   {
     	controller.setLineaDeTiempo(linea);
     	
     	stage.setScene(new Scene(root,1200,640));
+	}
+
+	public void setNombreArchivo(String nombreArchivo) {
+		this.nombreArchivo= nombreArchivo;
+		
 	}
 
 }

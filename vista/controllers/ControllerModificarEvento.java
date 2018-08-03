@@ -23,6 +23,7 @@ public class ControllerModificarEvento {
 	@FXML private TextField n1,dia,mes,anio,nuevaDescp,imagen;
 	@FXML private Button b1,b2;
 	@FXML Label l1;
+	private String nombreArchivo;
 	
 	public void botonConfirmar() {
 		int diaNuevo = Integer.parseInt(this.dia.getText());
@@ -31,7 +32,7 @@ public class ControllerModificarEvento {
 		String imagenNombre = imagen.getText();
 		try {
 		linea.modificarEvento(nombreEvento,imagenNombre, diaNuevo, mesNuevo, anioNuevo, nuevaDescp.getText());
-		archivo.guardar(linea);
+		archivo.guardar(linea,this.nombreArchivo+".obj");
 		n1.setText("");
 		l1.setText("Se Modifico Correctamente!");
 		this.actualizar();
@@ -93,6 +94,11 @@ public class ControllerModificarEvento {
 			b1.setVisible(true);
 			b2.setVisible(false);
 			imagen.setVisible(false);
+			
+		}
+		
+		public void setNombreArchivo(String nombreArchivo) {
+			this.nombreArchivo= nombreArchivo;
 			
 		}
 
