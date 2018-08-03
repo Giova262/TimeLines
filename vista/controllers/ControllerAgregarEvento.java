@@ -84,6 +84,7 @@ public class ControllerAgregarEvento   {
 
 	public void setNombreArchivo(String nombreArchivo) {
 		this.nombreArchivo= nombreArchivo;
+		System.out.println("en agregar evneto el nombre es :"+this.nombreArchivo);
 		
 	}
 

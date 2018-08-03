@@ -21,7 +21,9 @@ public class ControllerMenuPrincipal  {
     	ControllerAgregarEvento controller = loader.getController();
     	controller.setStage(stage);
     	controller.setLinea(linea);
+    	System.out.println("Nombre archivo en menu :" + this.nombreArchivo);
     	controller.setNombreArchivo(nombreArchivo);
+    	
     	stage.setScene(new Scene(root,1200,640));
       	
     }

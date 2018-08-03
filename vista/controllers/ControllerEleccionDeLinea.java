@@ -47,11 +47,6 @@ public class ControllerEleccionDeLinea {
 		l2.setText("Nombre del proyecto:");
 		l1.setText("");
 		b1.setDisable(false);
-		try {
-			t1.setPromptText("Ejemplo");
-		} catch (Exception e) {
-			t1.setPromptText("excepion");
-		}
 		
 	}
 	
@@ -61,12 +56,11 @@ public class ControllerEleccionDeLinea {
 	
 	public int botonConfirmar() throws IOException {
 		this.nombreArchivo = t1.getText();
+		System.out.println("BNombre del archivo sacado del text :"+this.nombreArchivo);
 		
 		try {
-			if (!this.nuevo)  this.linea = archivo.recuperar(nombreArchivo+".obj");
-		} catch (Exception e) {
-			System.out.println("No existe ese archivo!!");
-			
+			if (!this.nuevo)  this.linea = archivo.recuperar(this.nombreArchivo+".obj");
+		} catch (Exception e) {		
 			this.actualizar();
 			l1.setText("No existe ese nombre de archivo");
 			return 1;
@@ -77,7 +71,7 @@ public class ControllerEleccionDeLinea {
 		ControllerMenuPrincipal controller = loader.getController();
 		controller.setStage(stage);
 		controller.setLineaDeTiempo(linea);
-		controller.setNombreArchivo(nombreArchivo);
+		controller.setNombreArchivo(this.nombreArchivo);
 		this.stage.setScene(new Scene(root,1200,640));
 		return 0;
 	}

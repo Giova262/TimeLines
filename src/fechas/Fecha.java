@@ -40,7 +40,7 @@ public class Fecha  implements Serializable {
 
 	public int comparadaCon(Fecha fecha) {
 		
-		if( anio <  fecha.getAnio() )  return -1;
+	/*	if( anio <  fecha.getAnio() )  return -1;
 		else if ( anio == fecha.getAnio() ) {			
 				if( mes < fecha.getMes() )  return -1;	
 				else if( mes == getMes() ) {			
@@ -54,8 +54,29 @@ public class Fecha  implements Serializable {
 				else if( mes == getMes() ) {			
 					if( dia > fecha.getDia()) return 1;
 				}			
-		}
-		return 0;
+		}*/
+		
+
+	    if ( anio <  fecha.getAnio() )
+	        return -1;
+	    else if ( anio >  fecha.getAnio() )
+	        return 1;
+	    else {
+	        if ( mes < fecha.getMes() )
+	            return -1;
+	        else if ( mes > fecha.getMes() )
+	            return 1;
+	        else {
+	            if ( dia <  fecha.getDia())
+	               return -1;
+	            else if ( dia >  fecha.getDia() )
+	                return 1;
+	            else
+	                return 0;
+	        }
+	    }
+
+	//	return 0;
 	}
 
 	public String getFormatoFecha() {
