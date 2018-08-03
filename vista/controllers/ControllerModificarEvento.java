@@ -73,6 +73,8 @@ public class ControllerModificarEvento {
 		ControllerMenuPrincipal controller = loader.getController();
 		controller.setStage(stage);
 		controller.setLineaDeTiempo(linea);
+		controller.setNombreArchivo(this.nombreArchivo);
+		
 		this.stage.setScene(new Scene(root,1200,640));
 	}
 	
@@ -99,7 +101,7 @@ public class ControllerModificarEvento {
 		
 		public void setNombreArchivo(String nombreArchivo) {
 			this.nombreArchivo= nombreArchivo;
-			
+		
 		}
 
 }

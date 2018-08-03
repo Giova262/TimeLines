@@ -15,7 +15,7 @@ import lineasDeTiempo.LineaDeTiempo;
 import persistencias.ArchivoLineasDeTiempo;
 
 public class ControllerAgregarEvento   {
-
+/**/
 	private Stage stage;
 	private LineaDeTiempo linea ;
 	ArchivoLineasDeTiempo archivo = new ArchivoLineasDeTiempo();	
@@ -38,6 +38,7 @@ public class ControllerAgregarEvento   {
     	ControllerMenuPrincipal controller = loader.getController();
     	controller.setStage(stage);
     	controller.setLineaDeTiempo(linea);
+    	controller.setNombreArchivo(this.nombreArchivo);
     	
     	stage.setScene(new Scene(root,1200,640));
     	
@@ -78,13 +79,14 @@ public class ControllerAgregarEvento   {
     	ControllerMenuPrincipal controller = loader.getController();
     	controller.setStage(stage);
     	controller.setLineaDeTiempo(linea);
+    	controller.setNombreArchivo(this.nombreArchivo);
     	
     	stage.setScene(new Scene(root,1200,640));
 	}
 
 	public void setNombreArchivo(String nombreArchivo) {
 		this.nombreArchivo= nombreArchivo;
-		System.out.println("en agregar evneto el nombre es :"+this.nombreArchivo);
+	
 		
 	}
 

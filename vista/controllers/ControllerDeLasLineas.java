@@ -17,9 +17,7 @@ import javafx.stage.Stage;
 import lineasDeTiempo.LineaDeTiempo;
 
 public class ControllerDeLasLineas {
-	
 
-	
 	private Stage stage;
 	private LineaDeTiempo lineas;
 	private ArrayList<Evento> lineaTemporal;
@@ -35,6 +33,7 @@ public class ControllerDeLasLineas {
 	@FXML private Text Descripcion;
 	@FXML private ImageView imagenVie;
 	@FXML private Label diferenciaLabel;
+	private String nombreArchivo;
 
 	
 	public void setStage(Stage stage) {
@@ -67,6 +66,7 @@ public class ControllerDeLasLineas {
 	}
 	
 	private void llenarFechas() {	
+		/* esta feo */ 
 		listaDeFechas.add(a1);
 		listaDeFechas.add(a2);
 		listaDeFechas.add(a3);
@@ -79,6 +79,7 @@ public class ControllerDeLasLineas {
 	}
 
 	private void llenarNombres() {
+		//ta feo
 		listaDeNombres.add(n1);
 		listaDeNombres.add(n2);
 		listaDeNombres.add(n3);
@@ -91,7 +92,7 @@ public class ControllerDeLasLineas {
 	}
 
 	private void llenarBotones() {
-			
+			//esta horrible
 		/*Mejroar el codigo con algun ciclo for o algo similar muycho codigo repetido*/
 		b1.setVisible(false);
 		b2.setVisible(false);
@@ -182,7 +183,6 @@ public class ControllerDeLasLineas {
 		Descripcion.setText(lineaTemporal.get(indice+ this.indiceDeCorrido).getDescripcion() );
 		Descripcion.setVisible(true);
 		String nombre= lineaTemporal.get(indice+this.indiceDeCorrido).getFoto();
-		System.out.println("Nombre de la foto : "+ nombre);
 		imagenVie.setImage(new Image("/imagenes/"+nombre));
 
 	}
@@ -193,6 +193,8 @@ public class ControllerDeLasLineas {
 		ControllerMenuPrincipal controller = loader.getController();
     	controller.setStage(stage);
     	controller.setLineaDeTiempo(lineas);
+    	controller.setNombreArchivo(this.nombreArchivo);
+    	
 		this.stage.setScene(new Scene(root ,1200,640));
 		
 	}
@@ -204,6 +206,7 @@ public class ControllerDeLasLineas {
     	controller.setStage(stage);
     	controller.setLinea(lineas);
     	controller.setIndice(this.indiceDeCorrido+1);
+    	controller.setNombreArchivo(this.nombreArchivo);
     	controller.actualizar();
    
 		this.stage.setScene(new Scene(root,1200,640));
@@ -217,6 +220,7 @@ public class ControllerDeLasLineas {
     	controller.setStage(stage);
     	controller.setLinea(lineas);
     	controller.setIndice(this.indiceDeCorrido-1);
+    	controller.setNombreArchivo(this.nombreArchivo);
     	controller.actualizar();
    
 		this.stage.setScene(new Scene(root,1200,640));
@@ -244,6 +248,12 @@ public class ControllerDeLasLineas {
 		int diferencia = Math.abs(anio2-anio1);
 		
 		diferenciaLabel.setText("La diferecian entre los dos eventos es : "+ diferencia );
+	}
+	
+	public void setNombreArchivo(String nombreArchivo) {
+		this.nombreArchivo= nombreArchivo;
+
+		
 	}
 
 }

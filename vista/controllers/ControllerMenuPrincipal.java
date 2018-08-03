@@ -21,8 +21,7 @@ public class ControllerMenuPrincipal  {
     	ControllerAgregarEvento controller = loader.getController();
     	controller.setStage(stage);
     	controller.setLinea(linea);
-    	System.out.println("Nombre archivo en menu :" + this.nombreArchivo);
-    	controller.setNombreArchivo(nombreArchivo);
+    	controller.setNombreArchivo(this.nombreArchivo);
     	
     	stage.setScene(new Scene(root,1200,640));
       	
@@ -46,6 +45,7 @@ public class ControllerMenuPrincipal  {
     	ControllerDeLasLineas controller = loader.getController();
     	controller.setStage(stage);
     	controller.setLinea(linea);
+    	controller.setNombreArchivo(this.nombreArchivo);
     	controller.setIndice(0);
  
     	if ( this.linea.cantidadDeEventos()==0 ) System.out.println("No hay nada para mostrar");
@@ -72,7 +72,7 @@ public class ControllerMenuPrincipal  {
 		ControllerEliminarEvento controller = loader.getController();
 		controller.setStage(this.stage);
 		controller.setLineaDeTiempo(this.linea);
-		controller.setNombreArchivo(nombreArchivo);
+		controller.setNombreArchivo(this.nombreArchivo);
 		
 		this.stage.setScene(new Scene(root,1200,640));
 		
@@ -85,13 +85,15 @@ public class ControllerMenuPrincipal  {
 			ControllerModificarEvento controller = loader.getController();
 			controller.setStage(stage);
 			controller.setLineaDeTiempo(linea);
-			controller.setNombreArchivo(nombreArchivo);
+			controller.setNombreArchivo(this.nombreArchivo);
 			controller.actualizar();
 			this.stage.setScene(new Scene(root,1200,640));
 	}
 
 	public void setNombreArchivo(String nombreArchivo) {
+	
 		this.nombreArchivo = nombreArchivo;
+
 		
 	}
 

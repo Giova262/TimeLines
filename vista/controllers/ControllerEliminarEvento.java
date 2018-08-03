@@ -37,12 +37,13 @@ public class ControllerEliminarEvento {
 		ControllerMenuPrincipal controller = loader.getController();
 		controller.setStage(this.stage);
 		controller.setLineaDeTiempo(this.linea);
+		controller.setNombreArchivo(this.nombreArchivo);
 		this.stage.setScene(new Scene(root,1200,640) );
 		
 	}
 	
 	public void botonEliminar() throws FileNotFoundException, IOException {
-		System.out.println(t1.getText());
+
 		int resultado = linea.eliminarEvento(t1.getText());
 		if ( resultado == 1) 	labelAlerta.setText("No se encontro el evento , Vuelva a ingresar o regrese al Menu Principal");
 		else {
@@ -53,7 +54,9 @@ public class ControllerEliminarEvento {
 	}
 	
 	public void setNombreArchivo(String nombreArchivo) {
+		
 		this.nombreArchivo= nombreArchivo;
+
 		
 	}
 
