@@ -55,10 +55,12 @@ public class LineaDeTiempo implements Serializable {
 		return 1;
 	}
 	
-	public int modificarEvento(String nombre ,String nombreImagen, int dia , int mes , int anio , String descripcion) {
+	public int modificarEvento(String nombre ,String nombreImagen,String colorboton, int dia , int mes , int anio , String descripcion) {
 		Fecha fecha = new Fecha(anio,mes,dia);
 		Evento nuevoEvento = new Evento(nombre,fecha,descripcion);
+		
 		nuevoEvento.agregarFoto(nombreImagen);
+		nuevoEvento.setColor(colorboton);
 		for(  Evento i: linea) {
 			if(  i.getNombre().equals(nombre)  ) {
 				linea.remove(i);

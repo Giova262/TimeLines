@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
+<?import javafx.scene.canvas.*?>
+<?import javafx.scene.shape.*?>
+<?import javafx.scene.chart.*?>
 <?import javafx.scene.text.*?>
 <?import javafx.scene.control.*?>
 <?import javafx.scene.image.*?>
@@ -21,59 +24,65 @@
       </Label>
       <Label layoutX="120.0" layoutY="86.0" text="Nombre :" textFill="#f8f7f7">
          <font>
-            <Font name="Arial Black" size="25.0" />
+            <Font name="Arial Black" size="17.0" />
          </font>
       </Label>
-      <Label layoutX="861.0" layoutY="69.0" text="Nuevo Dia :" textFill="#f8f7f7">
+      <Label layoutX="308.0" layoutY="227.0" text="Dia :" textFill="#f8f7f7">
          <font>
-            <Font name="Arial Black" size="25.0" />
+            <Font name="Arial Black" size="17.0" />
          </font>
       </Label>
-      <Label layoutX="850.0" layoutY="118.0" text="Nuevo Mes :" textFill="#f8f7f7">
+      <Label layoutX="304.0" layoutY="275.0" text="Mes :" textFill="#f8f7f7">
          <font>
-            <Font name="Arial Black" size="25.0" />
+            <Font name="Arial Black" size="17.0" />
          </font>
       </Label>
-      <Label layoutX="855.0" layoutY="172.0" text="Nuevo Año :" textFill="#f8f7f7">
+      <Label layoutX="305.0" layoutY="323.0" text="Año :" textFill="#f8f7f7">
          <font>
-            <Font name="Arial Black" size="25.0" />
+            <Font name="Arial Black" size="17.0" />
          </font>
       </Label>
-      <Label layoutX="114.0" layoutY="178.0" text="Nueva Descripcion " textFill="#f8f7f7">
+      <Label layoutX="25.0" layoutY="375.0" text="Descripcion  :" textFill="#f8f7f7">
          <font>
-            <Font name="Arial Black" size="25.0" />
+            <Font name="Arial Black" size="17.0" />
          </font>
       </Label>
-      <TextField fx:id="n1" layoutX="267.0" layoutY="91.0" prefHeight="25.0" prefWidth="249.0" />
-      <TextField fx:id="dia" layoutX="1027.0" layoutY="77.0" prefHeight="25.0" prefWidth="105.0" />
-      <TextField fx:id="mes" layoutX="1031.0" layoutY="126.0" prefHeight="25.0" prefWidth="105.0" />
-      <TextField fx:id="anio" layoutX="1031.0" layoutY="175.0" prefHeight="25.0" prefWidth="105.0" />
-      <TextField fx:id="nuevaDescp" alignment="TOP_LEFT" layoutX="105.0" layoutY="246.0" prefHeight="295.0" prefWidth="1029.0" />
-      <Button layoutX="46.0" layoutY="578.0" mnemonicParsing="false" onAction="#botonVolver" prefHeight="35.0" prefWidth="96.0" text="Volver">
+      <TextField fx:id="n1" layoutX="211.0" layoutY="87.0" prefHeight="24.0" prefWidth="249.0" />
+      <TextField fx:id="dia" layoutX="365.0" layoutY="226.0" prefHeight="25.0" prefWidth="48.0" />
+      <TextField fx:id="mes" layoutX="365.0" layoutY="275.0" prefHeight="25.0" prefWidth="48.0" />
+      <TextField fx:id="anio" layoutX="365.0" layoutY="322.0" prefHeight="25.0" prefWidth="48.0" />
+      <Button layoutX="14.0" layoutY="598.0" mnemonicParsing="false" onAction="#botonVolver" prefHeight="27.0" prefWidth="68.0" text="Volver">
          <font>
-            <Font size="15.0" />
+            <Font name="Arial Black" size="12.0" />
          </font>
       </Button>
-      <Button fx:id="b2" layoutX="340.0" layoutY="578.0" mnemonicParsing="false" onAction="#botonConfirmar" prefHeight="37.0" prefWidth="104.0" text="Confirmar">
+      <Button fx:id="b2" layoutX="556.0" layoutY="592.0" mnemonicParsing="false" onAction="#botonConfirmar" prefHeight="25.0" prefWidth="104.0" text="Confirmar">
          <font>
             <Font name="Arial Black" size="15.0" />
          </font>
       </Button>
-      <Button fx:id="b1" layoutX="548.0" layoutY="86.0" mnemonicParsing="false" onAction="#botonBuscar" prefHeight="14.0" prefWidth="89.0" text="Buscar">
+      <Button fx:id="b1" layoutX="473.0" layoutY="86.0" mnemonicParsing="false" onAction="#botonBuscar" prefHeight="27.0" prefWidth="68.0" text="Buscar">
          <font>
-            <Font name="Arial Black" size="15.0" />
+            <Font name="Arial Black" size="11.0" />
          </font>
       </Button>
-      <Label fx:id="l1" layoutX="120.0" layoutY="143.0" prefHeight="17.0" prefWidth="519.0" textFill="#f2f2f2">
+      <Label fx:id="l1" layoutX="556.0" layoutY="86.0" prefHeight="17.0" prefWidth="519.0" textFill="#f2f2f2">
          <font>
             <Font name="Arial Black" size="18.0" />
          </font>
       </Label>
-      <Label layoutX="565.0" layoutY="584.0" text="Selecciona Imagen Nombre :" textFill="#f8f7f7">
+      <Label layoutX="22.0" layoutY="186.0" text="Nombre  de imagen con la extension:" textFill="#f8f7f7">
          <font>
             <Font name="Arial Black" size="16.0" />
          </font>
       </Label>
-      <TextField fx:id="imagen" layoutX="829.0" layoutY="583.0" prefHeight="2.0" prefWidth="307.0" />
+      <TextField fx:id="imagen" layoutX="366.0" layoutY="185.0" prefHeight="2.0" prefWidth="307.0" />
+      <TextArea fx:id="nuevaDescp" layoutX="157.0" layoutY="367.0" prefHeight="200.0" prefWidth="713.0" />
+      <Label layoutX="120.0" layoutY="144.0" text="Escribir el color en ingles :" textFill="#f8f7f7">
+         <font>
+            <Font name="Arial Black" size="16.0" />
+         </font>
+      </Label>
+      <TextField fx:id="color" layoutX="366.0" layoutY="143.0" prefHeight="25.0" prefWidth="79.0" />
    </children>
 </Pane>

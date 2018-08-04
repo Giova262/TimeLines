@@ -55,9 +55,14 @@ public class ControllerDeLasLineas {
 		llenarNombres();
 		llenarFechas();
 		
+		//String color = "red";
+		
 		for(int i =0 ; i <  (lineaTemporal.size() - indiceDeCorrido) && i < 8 ;i++) {	
 			listaDeNombres.get(i).setText(lineaTemporal.get(i+this.indiceDeCorrido).getNombre());
-			listaDeFechas.get(i).setText(lineaTemporal.get(i+this.indiceDeCorrido).getFechaString() );			
+			listaDeFechas.get(i).setText(lineaTemporal.get(i+this.indiceDeCorrido).getFechaString() );		
+			listaBotones.get(i).setStyle(
+								"-fx-background-radius: 3em;"
+							+"-fx-background-color: "+ lineaTemporal.get(i+this.indiceDeCorrido).getColor()+";");
 			listaBotones.get(i).setVisible(true);
 		}
 
@@ -98,7 +103,11 @@ public class ControllerDeLasLineas {
 		listaBotones.add(6,b7);
 		listaBotones.add(7,b8);
 		
- 		for(int i=0 ;i< 8;i++) 	listaBotones.get(i).setVisible(false);
+		
+ 		for(int i=0 ;i< 8;i++) {
+ 			listaBotones.get(i).setVisible(false);
+ 		
+ 		}
  				
  		b1.setOnAction(e -> { this.botonesEventos(0);} );
  		b2.setOnAction(e -> { this.botonesEventos(1);} );
@@ -109,6 +118,7 @@ public class ControllerDeLasLineas {
  		b7.setOnAction(e -> { this.botonesEventos(6);} );
  		b8.setOnAction(e -> { this.botonesEventos(7);} );
 				
+ 	
 	}
 	private void botonesEventos (int indice) {
 		botonMostrarDescripcion(indice);

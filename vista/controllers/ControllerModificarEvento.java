@@ -9,6 +9,7 @@ import javafx.scene.Parent;
 import javafx.scene.Scene;
 import javafx.scene.control.Button;
 import javafx.scene.control.Label;
+import javafx.scene.control.TextArea;
 import javafx.scene.control.TextField;
 import javafx.stage.Stage;
 import lineasDeTiempo.LineaDeTiempo;
@@ -20,7 +21,8 @@ public class ControllerModificarEvento {
 	private LineaDeTiempo linea;
 	private String nombreEvento;
 	ArchivoLineasDeTiempo archivo = new ArchivoLineasDeTiempo();	
-	@FXML private TextField n1,dia,mes,anio,nuevaDescp,imagen;
+	@FXML private TextField n1,dia,mes,anio,imagen,color;
+	@FXML private TextArea nuevaDescp;
 	@FXML private Button b1,b2;
 	@FXML Label l1;
 	private String nombreArchivo;
@@ -30,8 +32,10 @@ public class ControllerModificarEvento {
 		int mesNuevo = Integer.parseInt(this.mes.getText());
 		int anioNuevo = Integer.parseInt(this.anio.getText());
 		String imagenNombre = imagen.getText();
+		String colorBoton = color.getText();
 		try {
-		linea.modificarEvento(nombreEvento,imagenNombre, diaNuevo, mesNuevo, anioNuevo, nuevaDescp.getText());
+		linea.modificarEvento(nombreEvento,imagenNombre,colorBoton, diaNuevo, mesNuevo, anioNuevo, nuevaDescp.getText());
+		
 		archivo.guardar(linea,this.nombreArchivo+".obj");
 		n1.setText("");
 		l1.setText("Se Modifico Correctamente!");
@@ -56,6 +60,8 @@ public class ControllerModificarEvento {
 			nuevaDescp.setDisable(false);
 			nuevaDescp.setText(    evento.getDescripcion()    );
 			imagen.setVisible(true);
+			color.setVisible(true);
+			color.setText(evento.getColor());
 			imagen.setText(evento.getFoto());
 			b1.setVisible(false);
 			b2.setVisible(true);
@@ -96,6 +102,7 @@ public class ControllerModificarEvento {
 			b1.setVisible(true);
 			b2.setVisible(false);
 			imagen.setVisible(false);
+			color.setVisible(false);
 			
 		}
 		

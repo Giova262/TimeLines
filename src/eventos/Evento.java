@@ -10,6 +10,7 @@ public class Evento implements Serializable{
 	private Fecha fecha;
 	private String descripcion;
 	private String foto;
+	private String color;
 
 	
 	public Evento(String nombre, Fecha fecha, String descripcion) {		
@@ -17,6 +18,15 @@ public class Evento implements Serializable{
 		this.fecha = fecha;
 		this.descripcion = descripcion;
 		this.foto = "defecto.jpg";
+		this.color = "";
+	}
+
+	public String getColor() {
+		return color;
+	}
+
+	public void setColor(String color) {
+		this.color = color;
 	}
 
 	public Fecha getFecha() {
