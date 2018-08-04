@@ -77,6 +77,9 @@ public class ControllerEleccionDeLinea {
 	}
 	
 	public void actualizar() {
+		Button nuevo = new Button();
+		nuevo.setScaleX(100);
+	
 		t1.setDisable(true);
 		l1.setText("");
 		l2.setText("");

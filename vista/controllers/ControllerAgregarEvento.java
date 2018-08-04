@@ -15,19 +15,15 @@ import lineasDeTiempo.LineaDeTiempo;
 import persistencias.ArchivoLineasDeTiempo;
 
 public class ControllerAgregarEvento   {
-/**/
+
 	private Stage stage;
 	private LineaDeTiempo linea ;
-	ArchivoLineasDeTiempo archivo = new ArchivoLineasDeTiempo();	
-	
-	@FXML private TextField t1;
-	@FXML private TextField t2;
-	@FXML private TextField t3;
-	@FXML private TextField t4;
+	private String nombreArchivo;
+	private ArchivoLineasDeTiempo archivo = new ArchivoLineasDeTiempo();		
+	@FXML private TextField t1,t2,t3,t4;
 	@FXML private TextArea t5;
 	@FXML private TextField imagenName;
-	private String nombreArchivo;
-	
+
 	
 	public void siguienteBoton() throws IOException {
 		
@@ -60,9 +56,7 @@ public class ControllerAgregarEvento   {
 		linea.agregarEvento(evento);
 					
 		archivo.guardar(linea,nombreArchivo+".obj");
-			
-
-			
+				
 	}
 
 	public void setLinea(LineaDeTiempo linea) {
@@ -79,15 +73,13 @@ public class ControllerAgregarEvento   {
     	ControllerMenuPrincipal controller = loader.getController();
     	controller.setStage(stage);
     	controller.setLineaDeTiempo(linea);
-    	controller.setNombreArchivo(this.nombreArchivo);
-    	
+    	controller.setNombreArchivo(this.nombreArchivo); 	
     	stage.setScene(new Scene(root,1200,640));
 	}
 
 	public void setNombreArchivo(String nombreArchivo) {
 		this.nombreArchivo= nombreArchivo;
 	
-		
 	}
 
 }

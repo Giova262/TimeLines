@@ -20,6 +20,7 @@ public class ControllerDeLasLineas {
 
 	private Stage stage;
 	private LineaDeTiempo lineas;
+	private String nombreArchivo;
 	private ArrayList<Evento> lineaTemporal;
 	private ArrayList<Button>listaBotones = new ArrayList<Button>(); 
 	private ArrayList<Text>listaDeNombres = new ArrayList<Text>(); 
@@ -33,8 +34,7 @@ public class ControllerDeLasLineas {
 	@FXML private Text Descripcion;
 	@FXML private ImageView imagenVie;
 	@FXML private Label diferenciaLabel;
-	private String nombreArchivo;
-
+	
 	
 	public void setStage(Stage stage) {
 		this.stage = stage;		
@@ -46,7 +46,6 @@ public class ControllerDeLasLineas {
 
 	public void actualizar() {	
 	
-		
 		this.lineaTemporal = lineas.getLineaDeEventos();	
 		
 		diferenciaLabel.setText("");
@@ -66,7 +65,6 @@ public class ControllerDeLasLineas {
 	}
 	
 	private void llenarFechas() {	
-		/* esta feo */ 
 		listaDeFechas.add(a1);
 		listaDeFechas.add(a2);
 		listaDeFechas.add(a3);
@@ -74,12 +72,10 @@ public class ControllerDeLasLineas {
 		listaDeFechas.add(a5);
 		listaDeFechas.add(a6);
 		listaDeFechas.add(a7);
-		listaDeFechas.add(a8);
-			
+		listaDeFechas.add(a8);			
 	}
 
 	private void llenarNombres() {
-		//ta feo
 		listaDeNombres.add(n1);
 		listaDeNombres.add(n2);
 		listaDeNombres.add(n3);
@@ -92,91 +88,34 @@ public class ControllerDeLasLineas {
 	}
 
 	private void llenarBotones() {
-			//esta horrible
-		/*Mejroar el codigo con algun ciclo for o algo similar muycho codigo repetido*/
-		b1.setVisible(false);
-		b2.setVisible(false);
-		b3.setVisible(false);
-		b4.setVisible(false);
-		b5.setVisible(false);
-		b6.setVisible(false);
-		b7.setVisible(false);
-		b8.setVisible(false);
+		listaBotones.add(0,b1);
+		listaBotones.add(1,b2);
+		listaBotones.add(2,b3);
+		listaBotones.add(3,b4);
+		listaBotones.add(4,b5);
+		listaBotones.add(5,b6);
+		listaBotones.add(6,b7);
+		listaBotones.add(7,b8);
 		
-		b1.setOnAction(e -> {
-			botonMostrarDescripcion(0);
-			if (diferenciaBoton ) {
-				indiceDos = this.indiceDeCorrido;
-				this.calculardiferencia();
-				this.diferenciaBoton = false;
-			}else 	indiceUno = this.indiceDeCorrido;
-		});
-		b2.setOnAction(e -> {
-			botonMostrarDescripcion(1);
-			if (diferenciaBoton ) {
-				indiceDos = this.indiceDeCorrido + 1;
-				this.calculardiferencia();
-				this.diferenciaBoton = false;
-			}else 	indiceUno = this.indiceDeCorrido+1;
-		});
-		b3.setOnAction(e -> {
-			botonMostrarDescripcion(2);
-			if (diferenciaBoton ) {
-				indiceDos = this.indiceDeCorrido+2;
-				this.calculardiferencia();
-				this.diferenciaBoton = false;
-			}else 	indiceUno = this.indiceDeCorrido+2;
-		});
-		b4.setOnAction(e -> {
-			botonMostrarDescripcion(3);
-			if (diferenciaBoton ) {
-				indiceDos = this.indiceDeCorrido+3;
-				this.calculardiferencia();
-				this.diferenciaBoton = false;
-			}else 	indiceUno = this.indiceDeCorrido+3;
-		});
-		b5.setOnAction(e -> {
-			botonMostrarDescripcion(4);
-			if (diferenciaBoton ) {
-				indiceDos = this.indiceDeCorrido+4;
-				this.calculardiferencia();
-				this.diferenciaBoton = false;
-			}else 	indiceUno = this.indiceDeCorrido+4;
-		});
-		b6.setOnAction(e -> {
-			botonMostrarDescripcion(5);
-			if (diferenciaBoton ) {
-				indiceDos = this.indiceDeCorrido+5;
-				this.calculardiferencia();
-				this.diferenciaBoton = false;
-			}else 	indiceUno = this.indiceDeCorrido+5;
-		});
-		b7.setOnAction(e -> {
-			botonMostrarDescripcion(6);
-			if (diferenciaBoton ) {
-				indiceDos = this.indiceDeCorrido+6;
-				this.calculardiferencia();
-				this.diferenciaBoton = false;
-			}else 	indiceUno = this.indiceDeCorrido+6;
-		});
-		b8.setOnAction(e -> {
-			botonMostrarDescripcion(7);
-			if (diferenciaBoton ) {
-				indiceDos = this.indiceDeCorrido+7;
-				this.calculardiferencia();
-				this.diferenciaBoton = false;
-			}else 	indiceUno = this.indiceDeCorrido+7;
-		});
-		
-		listaBotones.add(b1);
-		listaBotones.add(b2);
-		listaBotones.add(b3);
-		listaBotones.add(b4);
-		listaBotones.add(b5);
-		listaBotones.add(b6);
-		listaBotones.add(b7);
-		listaBotones.add(b8);
-			
+ 		for(int i=0 ;i< 8;i++) 	listaBotones.get(i).setVisible(false);
+ 				
+ 		b1.setOnAction(e -> { this.botonesEventos(0);} );
+ 		b2.setOnAction(e -> { this.botonesEventos(1);} );
+ 		b3.setOnAction(e -> { this.botonesEventos(2);} );
+ 		b4.setOnAction(e -> { this.botonesEventos(3);} );
+ 		b5.setOnAction(e -> { this.botonesEventos(4);} );
+ 		b6.setOnAction(e -> { this.botonesEventos(5);} );
+ 		b7.setOnAction(e -> { this.botonesEventos(6);} );
+ 		b8.setOnAction(e -> { this.botonesEventos(7);} );
+				
+	}
+	private void botonesEventos (int indice) {
+		botonMostrarDescripcion(indice);
+		if (diferenciaBoton ) {
+			indiceDos = this.indiceDeCorrido+indice;
+			this.calculardiferencia();
+			this.diferenciaBoton = false;
+		}else 	indiceUno = this.indiceDeCorrido+indice;
 	}
 
 	public void botonMostrarDescripcion(int indice) {		
@@ -188,6 +127,7 @@ public class ControllerDeLasLineas {
 	}
 	
 	public void botonVolver() throws IOException {
+		
 		FXMLLoader loader = new  FXMLLoader(getClass().getResource("/controllers/EscenaMenuPrincipal.fxml"));
 		Parent root = loader.load();
 		ControllerMenuPrincipal controller = loader.getController();
@@ -241,19 +181,64 @@ public class ControllerDeLasLineas {
 		
 	}
 	private void calculardiferencia() {
-		this.lineaTemporal = lineas.getLineaDeEventos();		
+		
+		this.lineaTemporal = lineas.getLineaDeEventos();	
+		
 		int anio2 = lineaTemporal.get(indiceDos).getFecha().getAnio();
-		int anio1 = lineaTemporal.get(indiceUno).getFecha().getAnio();
+		int anio1 = lineaTemporal.get(indiceUno).getFecha().getAnio();		
+		int mes2 = lineaTemporal.get(indiceDos).getFecha().getMes();
+		int mes1 = lineaTemporal.get(indiceUno).getFecha().getMes();	
+		int dia2 = lineaTemporal.get(indiceDos).getFecha().getDia();
+		int dia1 = lineaTemporal.get(indiceUno).getFecha().getDia();
 		
-		int diferencia = Math.abs(anio2-anio1);
-		
-		diferenciaLabel.setText("La diferecian entre los dos eventos es : "+ diferencia );
+		 int aniosTotales=0,mesesTotales=0;
+		 int cantidadDiasDiferencia;
+		 int cantidadDias1=0 ,cantidadDias2=0;
+		 
+		 for(int i =0 ; i < mes1 -1 ; i++) 	 cantidadDias1 = cantidadDias1 + 30 ;
+		 cantidadDias1 = cantidadDias1 + dia1 ;
+		 
+		 for(int i =0 ; i < mes2 -1 ; i++) 	 cantidadDias2 = cantidadDias2 + 30 ;
+		 cantidadDias2 = cantidadDias2 + dia2;
+		 
+		 if(  anio2 > anio1 )	 cantidadDiasDiferencia = ( 365* (anio2 -anio1) ) + ( cantidadDias2-cantidadDias1 );	 
+		 else 	 cantidadDiasDiferencia = ( 365*( anio1 -anio2  ) ) + ( cantidadDias1-cantidadDias2 );
+		 		
+		 cantidadDiasDiferencia = Math.abs(cantidadDiasDiferencia);
+		 
+		 boolean condicion = true;
+		 
+		 while(condicion) {
+			 cantidadDiasDiferencia = cantidadDiasDiferencia - 365 ;
+			 if (cantidadDiasDiferencia > 0) aniosTotales =aniosTotales+1;
+			 else {
+				 cantidadDiasDiferencia=cantidadDiasDiferencia+365;
+				 condicion = false;
+			 }
+		 }
+		 
+		 condicion = true;
+		 
+		 while(condicion) {
+			 cantidadDiasDiferencia = cantidadDiasDiferencia - 30 ;
+			 if (cantidadDiasDiferencia > 0) mesesTotales =mesesTotales+1;
+			 else {
+				 if(mesesTotales > 11) {
+					 aniosTotales = aniosTotales +1 ;
+					 mesesTotales = mesesTotales - 12 ;
+				 }
+				 cantidadDiasDiferencia=cantidadDiasDiferencia+30;
+				 condicion = false;
+			 }
+		 }
+		 	
+		diferenciaLabel.setText("Diferencia Aproximada : "+ aniosTotales+" años "+
+		mesesTotales+" meses "+ cantidadDiasDiferencia + " dias");
 	}
 	
 	public void setNombreArchivo(String nombreArchivo) {
 		this.nombreArchivo= nombreArchivo;
-
-		
+	
 	}
 
 }
