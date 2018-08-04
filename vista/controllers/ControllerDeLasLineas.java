@@ -148,11 +148,17 @@ public class ControllerDeLasLineas {
     	controller.setLinea(lineas);
     	controller.setIndice(this.indiceDeCorrido+1);
     	controller.setNombreArchivo(this.nombreArchivo);
+    	controller.setIndicePrimero(this.indiceUno);
     	controller.actualizar();
    
 		this.stage.setScene(new Scene(root,1200,640));
 	}
 	
+	private void setIndicePrimero(int indice) {
+		this.indiceUno  = indice ;
+		
+	}
+
 	public void botonAnterior() throws IOException {
 		
 		FXMLLoader loader = new  FXMLLoader(getClass().getResource("/controllers/EscenaDelasLineas.fxml"));
@@ -162,6 +168,7 @@ public class ControllerDeLasLineas {
     	controller.setLinea(lineas);
     	controller.setIndice(this.indiceDeCorrido-1);
     	controller.setNombreArchivo(this.nombreArchivo);
+    	controller.setIndicePrimero(this.indiceUno);
     	controller.actualizar();
    
 		this.stage.setScene(new Scene(root,1200,640));
