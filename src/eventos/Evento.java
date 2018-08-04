@@ -18,7 +18,7 @@ public class Evento implements Serializable{
 		this.fecha = fecha;
 		this.descripcion = descripcion;
 		this.foto = "defecto.jpg";
-		this.color = "";
+		this.color = "lightGray";
 	}
 
 	public String getColor() {

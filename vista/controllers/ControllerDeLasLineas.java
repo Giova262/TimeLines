@@ -58,9 +58,7 @@ public class ControllerDeLasLineas {
 		llenarBotones();
 		llenarNombres();
 		llenarFechas();
-		
-		//String color = "red";
-		
+				
 		for(int i =0 ; i <  (lineaTemporal.size() - indiceDeCorrido) && i < 8 ;i++) {	
 			listaDeNombres.get(i).setText(lineaTemporal.get(i+this.indiceDeCorrido).getNombre());
 			listaDeFechas.get(i).setText(lineaTemporal.get(i+this.indiceDeCorrido).getFechaString() );		
@@ -109,11 +107,8 @@ public class ControllerDeLasLineas {
 		editar.setVisible(false);
 		eliminar.setVisible(false);
 		
- 		for(int i=0 ;i< 8;i++) {
- 			listaBotones.get(i).setVisible(false);
- 		
- 		}
- 				
+ 		for(int i=0 ;i< 8;i++)	listaBotones.get(i).setVisible(false);
+ 					
  		b1.setOnAction(e -> { this.botonesEventos(0);} );
  		b2.setOnAction(e -> { this.botonesEventos(1);} );
  		b3.setOnAction(e -> { this.botonesEventos(2);} );
@@ -221,7 +216,6 @@ public class ControllerDeLasLineas {
 	
 	public void botonEliminar() throws FileNotFoundException, IOException {
 		String nombre = lineaTemporal.get(indiceElimarModificar+ this.indiceDeCorrido).getNombre();
-	
 		
 		Stage nuevo = new Stage();	
 		FXMLLoader loader = new  FXMLLoader(getClass().getResource("/controllers/EscenaConfirmacion.fxml"));
@@ -231,8 +225,7 @@ public class ControllerDeLasLineas {
 		controller.setStage(nuevo);	
 		nuevo.setScene(new Scene(root,362,106));
 		nuevo.showAndWait();
-		
-		
+				
 		if ( controller.getEleccion() ) {
 			lineas.eliminarEvento(nombre);
 			archivo.guardar(lineas, nombreArchivo+".obj");
@@ -246,7 +239,22 @@ public class ControllerDeLasLineas {
 			
 		}
 
+	}
 	
+	public void botonModificar() throws IOException {
+		String nombre = lineaTemporal.get(indiceElimarModificar+ this.indiceDeCorrido).getNombre();
+		
+		FXMLLoader loader = new FXMLLoader(getClass().getResource("EscenaModificarEvento.fxml"));
+		Parent root = loader.load();
+		ControllerModificarEvento controller = loader.getController();
+		controller.setStage(stage);
+		controller.setLineaDeTiempo(lineas);
+		controller.setNombreObjetivo(nombre);
+		controller.setNombreArchivo(this.nombreArchivo);
+		controller.setUltimoIndice(this.indiceDeCorrido);
+		controller.actualizar();
+		controller.actualizarDatos();
+		this.stage.setScene(new Scene(root,1200,640));
 	}
 
 }

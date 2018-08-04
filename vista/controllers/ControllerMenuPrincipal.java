@@ -67,30 +67,6 @@ public class ControllerMenuPrincipal  {
 		
 	}
 	
-	/*public void botonEliminarEvento() throws IOException {
-		
-		FXMLLoader loader = new FXMLLoader(getClass().getResource("EscenaEliminarEvento.fxml"));
-		Parent root = loader.load();
-		ControllerEliminarEvento controller = loader.getController();
-		controller.setStage(this.stage);
-		controller.setLineaDeTiempo(this.linea);
-		controller.setNombreArchivo(this.nombreArchivo);
-		
-		this.stage.setScene(new Scene(root,1200,640));
-		
-		
-	}*/
-	
-	public void botonModificarEvento() throws IOException {
-			FXMLLoader loader = new FXMLLoader(getClass().getResource("EscenaModificarEvento.fxml"));
-			Parent root = loader.load();
-			ControllerModificarEvento controller = loader.getController();
-			controller.setStage(stage);
-			controller.setLineaDeTiempo(linea);
-			controller.setNombreArchivo(this.nombreArchivo);
-			controller.actualizar();
-			this.stage.setScene(new Scene(root,1200,640));
-	}
 
 	public void setNombreArchivo(String nombreArchivo) {
 	

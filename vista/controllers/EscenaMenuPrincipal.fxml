@@ -35,10 +35,5 @@
          <font>
             <Font name="Arial Black" size="12.0" />
          </font></Button>
-      <Button fx:id="boton12" layoutX="530.0" layoutY="394.0" mnemonicParsing="false" onAction="#botonModificarEvento" prefHeight="25.0" prefWidth="177.0" text="Modificar Evento">
-         <effect>
-            <ColorAdjust brightness="0.05" />
-         </effect>
-      </Button>
    </children>
 </Pane>

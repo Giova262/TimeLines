@@ -20,12 +20,14 @@ public class ControllerModificarEvento {
 	private Stage stage;
 	private LineaDeTiempo linea;
 	private String nombreEvento;
+	private int ultimoIndice=0;
 	ArchivoLineasDeTiempo archivo = new ArchivoLineasDeTiempo();	
 	@FXML private TextField n1,dia,mes,anio,imagen,color;
 	@FXML private TextArea nuevaDescp;
 	@FXML private Button b1,b2;
 	@FXML Label l1;
 	private String nombreArchivo;
+
 	
 	public void botonConfirmar() {
 		int diaNuevo = Integer.parseInt(this.dia.getText());
@@ -40,10 +42,18 @@ public class ControllerModificarEvento {
 		n1.setText("");
 		l1.setText("Se Modifico Correctamente!");
 		this.actualizar();
+		dia.setDisable(true);
+		mes.setDisable(true);
+		anio.setDisable(true);
+		nuevaDescp.setDisable(true);		
+		b2.setVisible(false);			
+		imagen.setDisable(true);
+		color.setDisable(true);
 		
 		}catch (Exception e) {
 			l1.setText("Ocurrio un error, revise los datos ingresados");
 		}
+		
 	}
 	
 	public void botonBuscar() {
@@ -74,14 +84,22 @@ public class ControllerModificarEvento {
 	}
 	
 	public void botonVolver() throws IOException {
-		FXMLLoader loader = new FXMLLoader(getClass().getResource("EscenaMenuPrincipal.fxml"));
-		Parent root = loader.load();
-		ControllerMenuPrincipal controller = loader.getController();
-		controller.setStage(stage);
-		controller.setLineaDeTiempo(linea);
-		controller.setNombreArchivo(this.nombreArchivo);
 		
-		this.stage.setScene(new Scene(root,1200,640));
+		FXMLLoader loader = new FXMLLoader(getClass().getResource("EscenaDelasLineas.fxml"));
+    	Parent root = loader.load();
+    	
+    	ControllerDeLasLineas controller = loader.getController();
+    	controller.setStage(stage);
+    	controller.setLinea(linea);
+    	controller.setNombreArchivo(this.nombreArchivo);
+    	controller.setIndice(this.ultimoIndice);
+ 
+    	if ( this.linea.cantidadDeEventos()==0 ) System.out.println("No hay nada para mostrar");
+    	else {
+    		controller.actualizar();
+    		stage.setScene(new Scene(root,1200,640));
+    	}
+
 	}
 	
 	  public void setStage(Stage stage) {
@@ -95,20 +113,39 @@ public class ControllerModificarEvento {
 		
 		public void actualizar() {
 			n1.setDisable(false);
-			dia.setDisable(true);
-			mes.setDisable(true);
-			anio.setDisable(true);
-			nuevaDescp.setDisable(true);
-			b1.setVisible(true);
-			b2.setVisible(false);
-			imagen.setVisible(false);
-			color.setVisible(false);
+			b1.setVisible(true);					
+			dia.setDisable(false);
+			mes.setDisable(false);
+			anio.setDisable(false);
+			nuevaDescp.setDisable(false);		
+			b2.setVisible(true);			
+			imagen.setVisible(true);
+			color.setVisible(true);
 			
+		}
+		
+		public void actualizarDatos() {
+			Evento evento = linea.buscarEvento(this.nombreEvento);
+			dia.setText(   Integer.toString(    evento.getFecha().getDia()   )   );
+			mes.setText(   Integer.toString(    evento.getFecha().getMes()   )   );	
+			anio.setText(   Integer.toString(    evento.getFecha().getAnio()   )   );		
+			nuevaDescp.setText(    evento.getDescripcion()    );
+			color.setText(evento.getColor());
+			imagen.setText(evento.getFoto());
 		}
 		
 		public void setNombreArchivo(String nombreArchivo) {
 			this.nombreArchivo= nombreArchivo;
 		
+		}
+
+		public void setNombreObjetivo(String nombre) {
+			this.nombreEvento= nombre;
+			
+		}
+		
+		public void setUltimoIndice(int i) {
+			this.ultimoIndice = i ;
 		}
 
 }

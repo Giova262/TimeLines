@@ -143,7 +143,7 @@
             <Font name="Arial Black" size="16.0" />
          </font>
       </Label>
-      <Button fx:id="editar" layoutX="990.0" layoutY="600.0" mnemonicParsing="false" onAction="#diferenciaBotton" prefHeight="25.0" prefWidth="95.0" text="Editar">
+      <Button fx:id="editar" layoutX="990.0" layoutY="600.0" mnemonicParsing="false" onAction="#botonModificar" prefHeight="25.0" prefWidth="95.0" text="Editar">
          <font>
             <Font name="Arial Black" size="12.0" />
          </font>
