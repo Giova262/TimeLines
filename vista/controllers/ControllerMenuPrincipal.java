@@ -67,7 +67,7 @@ public class ControllerMenuPrincipal  {
 		
 	}
 	
-	public void botonEliminarEvento() throws IOException {
+	/*public void botonEliminarEvento() throws IOException {
 		
 		FXMLLoader loader = new FXMLLoader(getClass().getResource("EscenaEliminarEvento.fxml"));
 		Parent root = loader.load();
@@ -79,7 +79,7 @@ public class ControllerMenuPrincipal  {
 		this.stage.setScene(new Scene(root,1200,640));
 		
 		
-	}
+	}*/
 	
 	public void botonModificarEvento() throws IOException {
 			FXMLLoader loader = new FXMLLoader(getClass().getResource("EscenaModificarEvento.fxml"));

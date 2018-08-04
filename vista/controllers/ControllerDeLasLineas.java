@@ -1,5 +1,6 @@
 package controllers;
 
+import java.io.FileNotFoundException;
 import java.io.IOException;
 import java.util.ArrayList;
 
@@ -16,6 +17,7 @@ import javafx.scene.image.ImageView;
 import javafx.scene.text.Text;
 import javafx.stage.Stage;
 import lineasDeTiempo.LineaDeTiempo;
+import persistencias.ArchivoLineasDeTiempo;
 
 public class ControllerDeLasLineas {
 
@@ -26,11 +28,13 @@ public class ControllerDeLasLineas {
 	private ArrayList<Button>listaBotones = new ArrayList<Button>(); 
 	private ArrayList<Text>listaDeNombres = new ArrayList<Text>(); 
 	private ArrayList<Text>listaDeFechas = new ArrayList<Text>(); 
+	private ArchivoLineasDeTiempo archivo = new ArchivoLineasDeTiempo();	
 	private  int indiceDeCorrido ;
 	private int indiceUno,indiceDos;
+	private int indiceElimarModificar;
 	private boolean diferenciaBoton;
 	@FXML private Text n1,n2,n3,n4,n5,n6,n7,n8;
-	@FXML private Button b1,b2,b3,b4,b5,b6,b7,b8;
+	@FXML private Button b1,b2,b3,b4,b5,b6,b7,b8,editar,eliminar;
 	@FXML private Text a1,a2,a3,a4,a5,a6,a7,a8;
 	@FXML private Text Descripcion;
 	@FXML private ImageView imagenVie;
@@ -102,7 +106,8 @@ public class ControllerDeLasLineas {
 		listaBotones.add(5,b6);
 		listaBotones.add(6,b7);
 		listaBotones.add(7,b8);
-		
+		editar.setVisible(false);
+		eliminar.setVisible(false);
 		
  		for(int i=0 ;i< 8;i++) {
  			listaBotones.get(i).setVisible(false);
@@ -121,6 +126,7 @@ public class ControllerDeLasLineas {
  	
 	}
 	private void botonesEventos (int indice) {
+		this.indiceElimarModificar = indice;
 		botonMostrarDescripcion(indice);
 		if (diferenciaBoton ) {
 			indiceDos = this.indiceDeCorrido+indice;
@@ -132,6 +138,8 @@ public class ControllerDeLasLineas {
 	public void botonMostrarDescripcion(int indice) {		
 		Descripcion.setText(lineaTemporal.get(indice+ this.indiceDeCorrido).getDescripcion() );
 		Descripcion.setVisible(true);
+		editar.setVisible(true);
+		eliminar.setVisible(true);
 		String nombre= lineaTemporal.get(indice+this.indiceDeCorrido).getFoto();
 		imagenVie.setImage(new Image("/imagenes/"+nombre));
 
@@ -208,6 +216,36 @@ public class ControllerDeLasLineas {
 	
 	public void setNombreArchivo(String nombreArchivo) {
 		this.nombreArchivo= nombreArchivo;
+	
+	}
+	
+	public void botonEliminar() throws FileNotFoundException, IOException {
+		String nombre = lineaTemporal.get(indiceElimarModificar+ this.indiceDeCorrido).getNombre();
+	
+		
+		Stage nuevo = new Stage();	
+		FXMLLoader loader = new  FXMLLoader(getClass().getResource("/controllers/EscenaConfirmacion.fxml"));
+		Parent root = loader.load();
+		
+		ControllerConfirmacion controller = loader.getController();
+		controller.setStage(nuevo);	
+		nuevo.setScene(new Scene(root,362,106));
+		nuevo.showAndWait();
+		
+		
+		if ( controller.getEleccion() ) {
+			lineas.eliminarEvento(nombre);
+			archivo.guardar(lineas, nombreArchivo+".obj");
+			this.actualizar();
+			diferenciaLabel.setText( "Se eliminó Exítosamente!");	
+		
+		}
+		else {
+			this.actualizar();
+			diferenciaLabel.setText( " Eliminación cancelada.");	
+			
+		}
+
 	
 	}
 
