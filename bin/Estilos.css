@@ -20,7 +20,6 @@
 .text-id { 
  -fx-font-smoothing-type: lcd;
  -fx-fill: white;
- -fx-blend-mode: blue ;
  -fx-font-size: 10pt;
 }
 
