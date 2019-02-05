@@ -54,8 +54,9 @@ public class ControllerMenuPrincipal  {
     	if ( this.linea.cantidadDeEventos()==0 ) System.out.println("No hay nada para mostrar");
     	else {
     		controller.actualizar();
-    			
-    		stage.setScene(new Scene(root,1200,800));		
+    		Scene scene = new Scene(root,1200,800);
+    		scene.getStylesheets().add("Estilos.css");
+    		stage.setScene(scene);		
     		stage.setX(200);
     		stage.setY(0);
     	}

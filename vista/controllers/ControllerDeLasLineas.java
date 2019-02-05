@@ -1,12 +1,16 @@
 package controllers;
 
+import java.awt.Desktop;
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.IOException;
+import java.net.URI;
+import java.net.URISyntaxException;
 import java.util.ArrayList;
 
 import eventos.Evento;
 import fechas.DiferenciadorDeFechas;
+import javafx.event.ActionEvent;
 import javafx.fxml.FXML;
 import javafx.fxml.FXMLLoader;
 import javafx.scene.Parent;
@@ -19,6 +23,8 @@ import javafx.scene.image.ImageView;
 import javafx.scene.media.Media;
 import javafx.scene.media.MediaPlayer;
 import javafx.scene.text.Text;
+import javafx.scene.web.WebEngine;
+import javafx.scene.web.WebView;
 import javafx.stage.Stage;
 import lineasDeTiempo.LineaDeTiempo;
 import persistencias.ArchivoLineasDeTiempo;
@@ -43,14 +49,13 @@ public class ControllerDeLasLineas {
 	@FXML private Text Descripcion;
 	@FXML private ImageView imagenVie;
 	@FXML private Label diferenciaLabel,titulo;
-	
+	@FXML private WebView webview; 
 	@FXML private ScrollPane scroll; 
 	
 	
 	//Sounds
 	Media sound = new Media(new File("Dudu.mp3").toURI().toString());
 	MediaPlayer mediaPlayer = new MediaPlayer(sound);
-	
 	
 	
 	public void setStage(Stage stage) {
@@ -64,8 +69,15 @@ public class ControllerDeLasLineas {
 	public void actualizar() {	
 	
 		mediaPlayer.setVolume(0.2);
-		mediaPlayer.getOnRepeat();
-		mediaPlayer.play();
+		
+	/*	mediaPlayer.setOnReady(new Runnable() {
+	        @Override
+	        public void run() {
+	        	mediaPlayer.play();
+	        }
+	    });
+		
+		mediaPlayer.play();*/
 		
 		
 		//COPIA ORIGINAL EN TEMPORAL
@@ -186,7 +198,10 @@ public class ControllerDeLasLineas {
     	controller.setLineaDeTiempo(lineas);
     	controller.setNombreArchivo(this.nombreArchivo);
     	
-		this.stage.setScene(new Scene(root ,1200,640));
+    	Scene scene = new Scene(root,600,550);    
+        scene.getStylesheets().add("Estilos.css");
+        
+		this.stage.setScene(scene);
 		
 	}
 	public void botonSiguiente() throws IOException {
@@ -307,12 +322,22 @@ public class ControllerDeLasLineas {
 		this.stage.setScene(new Scene(root,1200,640));
 	}
 	
-	public void botonMapa() throws IOException {
-		FXMLLoader loader = new FXMLLoader(getClass().getResource("EscenaTierra.fxml"));
-		Parent root = loader.load();
-		Stage stage2 = new Stage();
-		stage2.setScene(new Scene(root,772,776));
-		stage2.show();
-	}
+	public void botonMapa(ActionEvent e) throws IOException {
+		
+		
+		WebEngine engine = webview.getEngine();
+		engine.load(" https://www.google.com ");
+		
+		
+	/*	try {
+            Desktop.getDesktop().browse(new URI("https://www.google.com"));
+        } catch (IOException e1) {
+            e1.printStackTrace();
+        } catch (URISyntaxException e1) {
+            e1.printStackTrace();
+        }*/
+   }
+	
+	
 
 }

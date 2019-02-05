@@ -29,7 +29,7 @@
             </Label>
             <Button fx:id="b11" layoutX="156.0" layoutY="257.0" mnemonicParsing="false" onAction="#botonContinuarProyecto" prefHeight="44.0" prefWidth="297.0" text="Cargar" />
             <Button fx:id="b12" layoutX="14.0" layoutY="469.0" mnemonicParsing="false" onAction="#botonSalir" prefHeight="44.0" prefWidth="114.0" text="Salir" />
-            <Button fx:id="b1" layoutX="462.0" layoutY="469.0" mnemonicParsing="false" onAction="#botonConfirmar" prefHeight="44.0" prefWidth="114.0" text="Siguiente" />
+            <Button fx:id="b1" layoutX="462.0" layoutY="469.0" mnemonicParsing="false" onAction="#botonConfirmar" prefHeight="44.0" prefWidth="114.0" style="-fx-padding: 15px 25px;" text="Siguiente" />
             <TextField fx:id="t1" layoutX="195.0" layoutY="359.0" prefHeight="25.0" prefWidth="218.0" />
             <Label fx:id="l1" layoutX="113.0" layoutY="93.0" prefHeight="17.0" prefWidth="384.0" text="label1" textFill="#f5f2f2">
                <font>

@@ -74,6 +74,7 @@ public class ControllerEleccionDeLinea {
 	    
 	
 	public int botonConfirmar() throws IOException {
+		
 		this.nombreArchivo = t1.getText();
 	
 		try {
@@ -92,9 +93,13 @@ public class ControllerEleccionDeLinea {
 		controller.setStage(stage1);
 		controller.setLineaDeTiempo(linea);
 		controller.setNombreArchivo(this.nombreArchivo);
-		stage1.setScene(new Scene(root,1200,640));
+		
+	    Scene scene = new Scene(root,600,550);    
+        scene.getStylesheets().add("Estilos.css");
+		
+		stage1.setScene(scene);
 		stage1.show();
-		//this.stage.setScene(new Scene(root,1200,640));
+	
 		return 0;
 	}
 	

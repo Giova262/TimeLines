@@ -1,0 +1,38 @@
+.button {
+
+   -fx-background-color: 
+        #3c7fb1,
+        linear-gradient(#fafdfe, #e8f5fc),
+        linear-gradient(#eaf6fd 0%, #d9f0fc 49%, #bee6fd 50%, #a7d9f5 100%);
+    -fx-background-insets: 0,1,2;
+    -fx-background-radius: 3,2,1;
+    -fx-text-fill: black;
+    -fx-font-size: 14px;
+}
+
+.text { 
+	
+	 -fx-font-smoothing-type: lcd;
+	 -fx-fill: black;
+ 	 
+} 
+
+.text-id { 
+ -fx-font-smoothing-type: lcd;
+ -fx-fill: white;
+ -fx-blend-mode: blue ;
+ -fx-font-size: 10pt;
+}
+
+.text-id2 { 
+ -fx-font-smoothing-type: lcd;
+ -fx-fill: black;
+ -fx-font-size: 14pt;
+ -fx-font-family: "Courier New";
+}
+
+.label{
+	
+	-fx-text-fill: white;
+	
+}

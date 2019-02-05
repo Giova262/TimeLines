@@ -8,32 +8,37 @@
 <?import javafx.scene.control.*?>
 <?import javafx.scene.layout.*?>
 
-<Pane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="640.0" prefWidth="1200.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="controllers.ControllerMenuPrincipal">
+<Pane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="550.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="controllers.ControllerMenuPrincipal">
    <children>
-      <ImageView fitHeight="679.0" fitWidth="1278.0" pickOnBounds="true" preserveRatio="true">
+      <ImageView fitHeight="550.0" fitWidth="600.0" pickOnBounds="true">
          <image>
             <Image url="@../imagenes/Escena1.jpg" />
          </image>
       </ImageView>
-      <Label layoutX="434.0" layoutY="26.0" text="LINEAS DE TIEMPO" textFill="#f5f0f0" underline="true">
+      <Label layoutX="159.0" layoutY="25.0" text="Linea de Tiempo" textFill="#f5f0f0" underline="true">
          <font>
             <Font name="Arial Black" size="33.0" />
          </font>
       </Label>
-      <Button fx:id="boton1" layoutX="369.0" layoutY="235.0" mnemonicParsing="false" onAction="#agregarEvento" prefHeight="50.0" prefWidth="176.0" text="Agregar Evento">
+      <Button fx:id="boton1" layoutX="212.0" layoutY="204.0" mnemonicParsing="false" onAction="#agregarEvento" prefHeight="50.0" prefWidth="176.0" text="Agregar Evento">
          <effect>
             <ColorAdjust brightness="0.05" />
          </effect>
          <font>
             <Font name="Arial Black" size="15.0" />
          </font></Button>
-      <Button fx:id="boton2" layoutX="688.0" layoutY="232.0" mnemonicParsing="false" onAction="#verLineasDeTiempo" prefHeight="49.0" prefWidth="173.0" text="Ver Linea ">
+      <Button fx:id="boton2" layoutX="213.0" layoutY="309.0" mnemonicParsing="false" onAction="#verLineasDeTiempo" prefHeight="49.0" prefWidth="173.0" text="Ver Linea ">
          <font>
             <Font name="Arial Black" size="15.0" />
          </font></Button>
-      <Button fx:id="boton3" layoutX="529.0" layoutY="562.0" mnemonicParsing="false" onAction="#salirDelPrograma" prefHeight="25.0" prefWidth="174.0" text="Cerrar" textAlignment="CENTER">
+      <Button fx:id="boton3" layoutX="22.0" layoutY="499.0" mnemonicParsing="false" onAction="#salirDelPrograma" prefHeight="25.0" prefWidth="174.0" text="Cerrar" textAlignment="CENTER">
          <font>
             <Font name="Arial Black" size="12.0" />
          </font></Button>
+      <Label layoutX="264.0" layoutY="82.0" text="Menu" textFill="#f5f0f0">
+         <font>
+            <Font name="Arial Black" size="24.0" />
+         </font>
+      </Label>
    </children>
 </Pane>

@@ -101,9 +101,11 @@ public class Aplicacion extends Application {
 
           ControllerEleccionDeLinea controller = loader.getController();     
           controller.setStage(primaryStage);
-          controller.actualizar();
+          controller.actualizar();    	
           
           Scene scene = new Scene(root,600,550);    
+          scene.getStylesheets().add("Estilos.css");
+          
           primaryStage.setTitle("Linea De Tiempo");
           primaryStage.setScene(scene);
           primaryStage.show();
