@@ -31,7 +31,7 @@
          <font>
             <Font name="Arial Black" size="15.0" />
          </font></Button>
-      <Button fx:id="boton3" layoutX="529.0" layoutY="562.0" mnemonicParsing="false" onAction="#salirDelPrograma" prefHeight="25.0" prefWidth="174.0" text="Volver" textAlignment="CENTER">
+      <Button fx:id="boton3" layoutX="529.0" layoutY="562.0" mnemonicParsing="false" onAction="#salirDelPrograma" prefHeight="25.0" prefWidth="174.0" text="Cerrar" textAlignment="CENTER">
          <font>
             <Font name="Arial Black" size="12.0" />
          </font></Button>

@@ -31,12 +31,13 @@ public class ControllerMenuPrincipal  {
     
     public void  salirDelPrograma() throws IOException {
     	
-    	FXMLLoader loader = new FXMLLoader(getClass().getResource("EscenaEleccionDeLinea.fxml"));
+    	this.stage.close();
+    /*	FXMLLoader loader = new FXMLLoader(getClass().getResource("EscenaEleccionDeLinea.fxml"));
     	Parent root = loader.load();
     	ControllerEleccionDeLinea controller = loader.getController();
     	controller.setStage(stage);
     	controller.actualizar();
-    	stage.setScene(new Scene(root,1200,640));
+    	stage.setScene(new Scene(root,1200,640));*/
     }
 
     public void  verLineasDeTiempo() throws IOException {
@@ -53,7 +54,10 @@ public class ControllerMenuPrincipal  {
     	if ( this.linea.cantidadDeEventos()==0 ) System.out.println("No hay nada para mostrar");
     	else {
     		controller.actualizar();
-    		stage.setScene(new Scene(root,1200,640));
+    			
+    		stage.setScene(new Scene(root,1200,800));		
+    		stage.setX(200);
+    		stage.setY(0);
     	}
     	
     }

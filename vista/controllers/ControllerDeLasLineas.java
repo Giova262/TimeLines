@@ -1,5 +1,6 @@
 package controllers;
 
+import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.IOException;
 import java.util.ArrayList;
@@ -12,8 +13,11 @@ import javafx.scene.Parent;
 import javafx.scene.Scene;
 import javafx.scene.control.Button;
 import javafx.scene.control.Label;
+import javafx.scene.control.ScrollPane;
 import javafx.scene.image.Image;
 import javafx.scene.image.ImageView;
+import javafx.scene.media.Media;
+import javafx.scene.media.MediaPlayer;
 import javafx.scene.text.Text;
 import javafx.stage.Stage;
 import lineasDeTiempo.LineaDeTiempo;
@@ -38,7 +42,15 @@ public class ControllerDeLasLineas {
 	@FXML private Text a1,a2,a3,a4,a5,a6,a7,a8;
 	@FXML private Text Descripcion;
 	@FXML private ImageView imagenVie;
-	@FXML private Label diferenciaLabel;
+	@FXML private Label diferenciaLabel,titulo;
+	
+	@FXML private ScrollPane scroll; 
+	
+	
+	//Sounds
+	Media sound = new Media(new File("Dudu.mp3").toURI().toString());
+	MediaPlayer mediaPlayer = new MediaPlayer(sound);
+	
 	
 	
 	public void setStage(Stage stage) {
@@ -51,15 +63,34 @@ public class ControllerDeLasLineas {
 
 	public void actualizar() {	
 	
+		mediaPlayer.setVolume(0.2);
+		mediaPlayer.getOnRepeat();
+		mediaPlayer.play();
+		
+		
+		//COPIA ORIGINAL EN TEMPORAL
 		this.lineaTemporal = lineas.getLineaDeEventos();	
 		
+		//TITULO
+		titulo.setText("Lineas de Tiempo de "+this.nombreArchivo);
+		
+		//SETEO BOTONES Y LABELS
 		diferenciaLabel.setText("");
 		diferenciaBoton = false;
+		
+		//AGREGO BOTONES Y ACCIONES
 		llenarBotones();
+		
+		//AGREGO LOS TEXT CON NOMBRES
 		llenarNombres();
+		
+		//AGREGO LOS TEXT DE FECHAS
 		llenarFechas();
+		
+		
 				
 		for(int i =0 ; i <  (lineaTemporal.size() - indiceDeCorrido) && i < 8 ;i++) {	
+			
 			listaDeNombres.get(i).setText(lineaTemporal.get(i+this.indiceDeCorrido).getNombre());
 			listaDeFechas.get(i).setText(lineaTemporal.get(i+this.indiceDeCorrido).getFechaString() );		
 			listaBotones.get(i).setStyle(
@@ -69,6 +100,7 @@ public class ControllerDeLasLineas {
 		}
 
 		Descripcion.setVisible(false);
+	
 				
 	}
 	
@@ -96,6 +128,7 @@ public class ControllerDeLasLineas {
 	}
 
 	private void llenarBotones() {
+		
 		listaBotones.add(0,b1);
 		listaBotones.add(1,b2);
 		listaBotones.add(2,b3);
@@ -121,8 +154,11 @@ public class ControllerDeLasLineas {
  	
 	}
 	private void botonesEventos (int indice) {
+		
 		this.indiceElimarModificar = indice;
+		
 		botonMostrarDescripcion(indice);
+		
 		if (diferenciaBoton ) {
 			indiceDos = this.indiceDeCorrido+indice;
 			this.calculardiferencia();
@@ -130,7 +166,8 @@ public class ControllerDeLasLineas {
 		}else 	indiceUno = this.indiceDeCorrido+indice;
 	}
 
-	public void botonMostrarDescripcion(int indice) {		
+	public void botonMostrarDescripcion(int indice) {	
+		
 		Descripcion.setText(lineaTemporal.get(indice+ this.indiceDeCorrido).getDescripcion() );
 		Descripcion.setVisible(true);
 		editar.setVisible(true);
@@ -154,17 +191,25 @@ public class ControllerDeLasLineas {
 	}
 	public void botonSiguiente() throws IOException {
 		
-		FXMLLoader loader = new  FXMLLoader(getClass().getResource("/controllers/EscenaDelasLineas.fxml"));
-		Parent root = loader.load();
-		ControllerDeLasLineas controller = loader.getController();
-    	controller.setStage(stage);
-    	controller.setLinea(lineas);
-    	controller.setIndice(this.indiceDeCorrido+1);
-    	controller.setNombreArchivo(this.nombreArchivo);
-    	controller.setIndicePrimero(this.indiceUno);
-    	controller.actualizar();
-   
-		this.stage.setScene(new Scene(root,1200,640));
+		this.indiceDeCorrido = this.indiceDeCorrido + 1;
+	
+		if (this.indiceDeCorrido >= lineaTemporal.size() - 8) 	 this.indiceDeCorrido = lineaTemporal.size() - 8 ;
+	
+		
+		for(int i =0 ; i <  (lineaTemporal.size() - this.indiceDeCorrido) && i < 8 ;i++) {	
+			
+			listaDeNombres.get(i).setText(lineaTemporal.get(i+this.indiceDeCorrido).getNombre());
+			listaDeFechas.get(i).setText(lineaTemporal.get(i+this.indiceDeCorrido).getFechaString() );		
+			listaBotones.get(i).setStyle(
+								"-fx-background-radius: 3em;"
+							+"-fx-background-color: "+ lineaTemporal.get(i+this.indiceDeCorrido).getColor()+";");
+			listaBotones.get(i).setVisible(true);
+			
+			if((i + this.indiceDeCorrido) > lineaTemporal.size() ) {
+				listaBotones.get(i).setVisible(false);
+			}
+		}
+			
 	}
 	
 	private void setIndicePrimero(int indice) {
@@ -174,17 +219,22 @@ public class ControllerDeLasLineas {
 
 	public void botonAnterior() throws IOException {
 		
-		FXMLLoader loader = new  FXMLLoader(getClass().getResource("/controllers/EscenaDelasLineas.fxml"));
-		Parent root = loader.load();
-		ControllerDeLasLineas controller = loader.getController();
-    	controller.setStage(stage);
-    	controller.setLinea(lineas);
-    	controller.setIndice(this.indiceDeCorrido-1);
-    	controller.setNombreArchivo(this.nombreArchivo);
-    	controller.setIndicePrimero(this.indiceUno);
-    	controller.actualizar();
-   
-		this.stage.setScene(new Scene(root,1200,640));
+		this.indiceDeCorrido = this.indiceDeCorrido - 1;
+		
+		if (	this.indiceDeCorrido < 0 ) 	this.indiceDeCorrido = 0 ;
+	
+		
+		for(int i =0 ; i <  (lineaTemporal.size() - indiceDeCorrido) && i < 8 ;i++) {	
+			
+			listaDeNombres.get(i).setText(lineaTemporal.get(i+this.indiceDeCorrido).getNombre());
+			listaDeFechas.get(i).setText(lineaTemporal.get(i+this.indiceDeCorrido).getFechaString() );		
+			listaBotones.get(i).setStyle(
+							  "-fx-background-radius: 3em;"
+							+ "-fx-background-color: "
+							+ lineaTemporal.get(i+this.indiceDeCorrido).getColor()+";");
+			listaBotones.get(i).setVisible(true);
+		}
+		
 	}
 	
 	public void setIndice(int numero) {
@@ -255,6 +305,14 @@ public class ControllerDeLasLineas {
 		controller.actualizar();
 		controller.actualizarDatos();
 		this.stage.setScene(new Scene(root,1200,640));
+	}
+	
+	public void botonMapa() throws IOException {
+		FXMLLoader loader = new FXMLLoader(getClass().getResource("EscenaTierra.fxml"));
+		Parent root = loader.load();
+		Stage stage2 = new Stage();
+		stage2.setScene(new Scene(root,772,776));
+		stage2.show();
 	}
 
 }

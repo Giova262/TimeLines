@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.*?>
+<?import javafx.scene.text.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.image.*?>
+<?import java.lang.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<ScrollPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="550.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="controllers.ControllerEleccionDeLinea">
+   <content>
+      <Pane prefHeight="550.0" prefWidth="600.0">
+         <children>
+            <ImageView fitHeight="550.0" fitWidth="600.0" layoutX="-11.0" layoutY="-12.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@../imagenes/Escena1.jpg" />
+               </image></ImageView>
+            <ImageView fitHeight="550.0" fitWidth="600.0" layoutX="-11.0" layoutY="239.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@../imagenes/Escena1.jpg" />
+               </image>
+            </ImageView>
+            <Button fx:id="b1" layoutX="156.0" layoutY="185.0" mnemonicParsing="false" onAction="#botonNuevoProyecto" prefHeight="44.0" prefWidth="297.0" text="Nuevo" />
+            <Label layoutX="125.0" layoutY="32.0" text="Linea de Tiempo" textFill="#f5f2f2">
+               <font>
+                  <Font size="48.0" />
+               </font>
+            </Label>
+            <Button fx:id="b11" layoutX="156.0" layoutY="257.0" mnemonicParsing="false" onAction="#botonContinuarProyecto" prefHeight="44.0" prefWidth="297.0" text="Cargar" />
+            <Button fx:id="b12" layoutX="14.0" layoutY="469.0" mnemonicParsing="false" onAction="#botonSalir" prefHeight="44.0" prefWidth="114.0" text="Salir" />
+            <Button fx:id="b1" layoutX="462.0" layoutY="469.0" mnemonicParsing="false" onAction="#botonConfirmar" prefHeight="44.0" prefWidth="114.0" text="Siguiente" />
+            <TextField fx:id="t1" layoutX="195.0" layoutY="359.0" prefHeight="25.0" prefWidth="218.0" />
+            <Label fx:id="l1" layoutX="113.0" layoutY="93.0" prefHeight="17.0" prefWidth="384.0" text="label1" textFill="#f5f2f2">
+               <font>
+                  <Font size="24.0" />
+               </font>
+            </Label>
+            <Label fx:id="l2" layoutX="121.0" layoutY="407.0" prefHeight="57.0" prefWidth="368.0" text="label2" textFill="#f5f2f2">
+               <font>
+                  <Font size="14.0" />
+               </font>
+            </Label>
+         </children>
+      </Pane>
+   </content>
+</ScrollPane>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.paint.*?>
+<?import javafx.scene.effect.*?>
+<?import javafx.scene.text.*?>
+<?import javafx.scene.image.*?>
+<?import java.lang.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<Pane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="640.0" prefWidth="1200.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="controllers.ControllerMenuPrincipal">
+   <children>
+      <ImageView fitHeight="679.0" fitWidth="1278.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../imagenes/Escena1.jpg" />
+         </image>
+      </ImageView>
+      <Label layoutX="434.0" layoutY="26.0" text="LINEAS DE TIEMPO" textFill="#f5f0f0" underline="true">
+         <font>
+            <Font name="Arial Black" size="33.0" />
+         </font>
+      </Label>
+      <Button fx:id="boton1" layoutX="369.0" layoutY="235.0" mnemonicParsing="false" onAction="#agregarEvento" prefHeight="50.0" prefWidth="176.0" text="Agregar Evento">
+         <effect>
+            <ColorAdjust brightness="0.05" />
+         </effect>
+         <font>
+            <Font name="Arial Black" size="15.0" />
+         </font></Button>
+      <Button fx:id="boton2" layoutX="688.0" layoutY="232.0" mnemonicParsing="false" onAction="#verLineasDeTiempo" prefHeight="49.0" prefWidth="173.0" text="Ver Linea ">
+         <font>
+            <Font name="Arial Black" size="15.0" />
+         </font></Button>
+      <Button fx:id="boton3" layoutX="529.0" layoutY="562.0" mnemonicParsing="false" onAction="#salirDelPrograma" prefHeight="25.0" prefWidth="174.0" text="Cerrar" textAlignment="CENTER">
+         <font>
+            <Font name="Arial Black" size="12.0" />
+         </font></Button>
+   </children>
+</Pane>

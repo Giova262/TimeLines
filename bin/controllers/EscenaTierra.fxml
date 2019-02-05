@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.shape.*?>
+<?import javafx.scene.image.*?>
+<?import java.lang.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<Pane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="776.0" prefWidth="772.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="controllers.ControllerTierra">
+   <children>
+      <ImageView fitHeight="888.0" fitWidth="764.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../imagenes/flatearth.jpg" />
+         </image>
+      </ImageView>
+      <Circle fx:id="sol" fill="#f6ff1f" layoutX="131.0" layoutY="411.0" radius="16.0" stroke="BLACK" strokeType="INSIDE" />
+      <Circle fx:id="luna" fill="#b2b2ae" layoutX="202.0" layoutY="404.0" radius="16.0" stroke="BLACK" strokeType="INSIDE" />
+   </children>
+</Pane>
