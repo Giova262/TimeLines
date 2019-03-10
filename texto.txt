@@ -1,10 +1,10 @@
-ï»¿Auto-destrucciï¿½n
+Auto-destrucción
 Flecha I
 Combo de Ataque I
 Rayo de Sharan I
-Explosiï¿½n I
+Explosión I
 Combo de Ataque I
-Radiaciï¿½n Divina I
+Radiación Divina I
 Combo de Ataque I
 Bola de Fuego I
 Bombardeo en Espiral I
@@ -17,9 +17,9 @@ Bombardeo en Espiral I
 Flecha II
 Combo de Ataque II
 Rayo de Sharan II
-Explosiï¿½n II
+Explosión II
 Combo de Ataque II
-Radiaciï¿½n Divina II
+Radiación Divina II
 Combo de Ataque II
 Bola de Fuego II
 Bombardeo en Espiral II
@@ -32,9 +32,9 @@ Bombardeo en Espiral II
 Flecha III
 Combo de Ataque III
 Rayo de Sharan III
-Explosiï¿½n III
+Explosión III
 Combo de Ataque III
-Radiaciï¿½n Divina III
+Radiación Divina III
 Combo de Ataque III
 Bola de Fuego III
 Bombardeo en Espiral III
@@ -47,247 +47,247 @@ Bombardeo en Espiral III
 Flecha IV
 Combo de Ataque IV
 Rayo de Sharan IV
-Explosiï¿½n IV
+Explosión IV
 Combo de Ataque IV
-Radiaciï¿½n Divina IV
+Radiación Divina IV
 Combo de Ataque IV
 Bola de Fuego IV
 Combo de Ataque IV
 Flecha V
 Combo de Ataque V
 Rayo de Sharan V
-Explosiï¿½n V
+Explosión V
 Combo de Ataque V
-Radiaciï¿½n Divina V
+Radiación Divina V
 Combo de Ataque V
 Bola de Fuego V
 Combo de Ataque V
 Flecha VI
 Combo de Ataque VI
 Rayo de Sharan VI
-Explosiï¿½n VI
+Explosión VI
 Combo de Ataque VI
-Radiaciï¿½n Divina VI
+Radiación Divina VI
 Combo de Ataque VI
 Bola de Fuego VI
 Combo de Ataque VI
 Flecha VII
 Combo de Ataque VII
 Rayo de Sharan VII
-Explosiï¿½n VII
+Explosión VII
 Combo de Ataque VII
-Radiaciï¿½n Divina VII
+Radiación Divina VII
 Combo de Ataque VII
 Bola de Fuego VII
 Combo de Ataque VII
 Flecha VIII
 Combo de Ataque VIII
 Rayo de Sharan VIII
-Explosiï¿½n VIII
+Explosión VIII
 Combo de Ataque VIII
-Radiaciï¿½n Divina VIII
+Radiación Divina VIII
 Combo de Ataque VIII
 Bola de Fuego VIII
 Combo de Ataque VIII
 Flecha IX
 Combo de Ataque IX
 Rayo de Sharan IX
-Explosiï¿½n IX
+Explosión IX
 Combo de Ataque IX
-Radiaciï¿½n Divina IX
+Radiación Divina IX
 Combo de Ataque IX
 Bola de Fuego IX
 Combo de Ataque IX
 Flecha X
 Combo de Ataque X
 Rayo de Sharan X
-Explosiï¿½n X
+Explosión X
 Combo de Ataque X
-Radiaciï¿½n Divina X
+Radiación Divina X
 Combo de Ataque X
 Bola de Fuego X
 Combo de Ataque X
 Flecha XI
 Combo de Ataque XI
 Rayo de Sharan XI
-Explosiï¿½n XI
+Explosión XI
 Combo de Ataque XI
-Radiaciï¿½n Divina XI
+Radiación Divina XI
 Combo de Ataque XI
 Bola de Fuego XI
 Combo de Ataque XI
 Flecha XII
 Combo de Ataque XII
 Rayo de Sharan XII
-Explosiï¿½n XII
+Explosión XII
 Combo de Ataque XII
-Radiaciï¿½n Divina XII
+Radiación Divina XII
 Combo de Ataque XII
 Bola de Fuego XII
 Combo de Ataque XII
 Lluvia de Flechas I
 Axe Block
-Anillo de Corrupciï¿½n I
+Anillo de Corrupción I
 Bombardeo I
 Levantarse Rapido I
 Regeneration Circle I
 Golpe Derribador I
 Aguja de Hielo I
-Rollos Evasivos
+Evasive Rolls
 Lluvia de Flechas I
-Anillo de Infusiï¿½n I
+Anillo de Infusión I
 Lluvia de Flechas II
 Bloqueo de Hacha II
-Anillo de Corrupciï¿½n II
+Anillo de Corrupción II
 Bombardeo II
 Levantarse Rapido II
 Regeneration Circle II
 Golpe Derribador II
 Aguja de Hielo II
 Lluvia de Flechas II
-Anillo de Infusiï¿½n II
+Anillo de Infusión II
 Lluvia de Flechas III
-Anillo de Corrupciï¿½n III
+Anillo de Corrupción III
 Bombardeo III
 Regeneration Circle III
 Golpe Derribador III
 Aguja de Hielo III
 Lluvia de Flechas III
-Anillo de Infusiï¿½n III
+Anillo de Infusión III
 Lluvia de Flechas IV
-Anillo de Corrupciï¿½n IV
+Anillo de Corrupción IV
 Bombardeo IV
 Regeneration Circle IV
 Golpe Derribador IV
 Aguja de Hielo IV
 Lluvia de Flechas IV
-Anillo de Infusiï¿½n IV
+Anillo de Infusión IV
 Lluvia de Flechas V
-Anillo de Corrupciï¿½n V
+Anillo de Corrupción V
 Bombardeo V
 Regeneration Circle V
 Golpe Derribador V
 Aguja de Hielo V
 Lluvia de Flechas V
-Anillo de Infusiï¿½n V
+Anillo de Infusión V
 Lluvia de Flechas VI
-Anillo de Corrupciï¿½n VI
+Anillo de Corrupción VI
 Bombardeo VI
 Regeneration Circle VI
 Golpe Derribador VI
 Aguja de Hielo VI
 Lluvia de Flechas VI
-Anillo de Infusiï¿½n VI
+Anillo de Infusión VI
 Lluvia de Flechas VII
-Anillo de Corrupciï¿½n VII
+Anillo de Corrupción VII
 Bombardeo VII
 Regeneration Circle VII
 Golpe Derribador VII
 Aguja de Hielo VII
 Lluvia de Flechas VII
-Anillo de Infusiï¿½n VII
+Anillo de Infusión VII
 Lluvia de Flechas VIII
-Anillo de Corrupciï¿½n VIII
+Anillo de Corrupción VIII
 Regeneration Circle VIII
 Golpe Derribador VIII
 Aguja de Hielo VIII
 Lluvia de Flechas VIII
-Anillo de Infusiï¿½n VIII
+Anillo de Infusión VIII
 Lluvia de Flechas IX
-Anillo de Corrupciï¿½n IX
+Anillo de Corrupción IX
 Regeneration Circle IX
 Golpe Derribador IX
 Aguja de Hielo IX
 Lluvia de Flechas IX
-Anillo de Infusiï¿½n IX
+Anillo de Infusión IX
 Lluvia de Flechas X
-Anillo de Corrupciï¿½n X
+Anillo de Corrupción X
 Golpe Derribador X
 Aguja de Hielo X
 Lluvia de Flechas X
-Anillo de Infusiï¿½n X
+Anillo de Infusión X
 Lluvia de Flechas XI
 Golpe Derribador XI
 Flecha Radiante I
 Ataque Trueno I
 Titanic Wrath I
-Rï¿½faga I
+Ráfaga I
 Arremetida I
-Cï¿½rculo de Curaciï¿½n I
+Círculo de Curación I
 Torbellino I
-Trampa Relï¿½mpago I
+Trampa Relámpago I
 Corte Doble I
 Torrente de Golpes I
 Flecha Radiante II
 Ataque Trueno II
 Titanic Wrath II
-Rï¿½faga II
+Ráfaga II
 Arremetida II
-Cï¿½rculo de Curaciï¿½n II
+Círculo de Curación II
 Torbellino II
-Trampa Relï¿½mpago II
+Trampa Relámpago II
 Corte Doble II
 Torrente de Golpes II
 Flecha Radiante III
 Ataque Trueno III
 Titanic Wrath III
-Rï¿½faga III
+Ráfaga III
 Arremetida III
-Cï¿½rculo de Curaciï¿½n III
+Círculo de Curación III
 Torbellino III
-Trampa Relï¿½mpago III
+Trampa Relámpago III
 Corte Doble III
 Torrente de Golpes III
 Flecha Radiante IV
 Ataque Trueno IV
-Rï¿½faga IV
+Ráfaga IV
 Arremetida IV
-Cï¿½rculo de Curaciï¿½n IV
+Círculo de Curación IV
 Torbellino IV
 Torrente de Golpes IV
 Flecha Radiante V
 Ataque Trueno V
-Rï¿½faga V
+Ráfaga V
 Arremetida V
-Cï¿½rculo de Curaciï¿½n V
+Círculo de Curación V
 Torbellino V
 Torrente de Golpes V
 Flecha Radiante VI
 Ataque Trueno VI
-Rï¿½faga VI
+Ráfaga VI
 Arremetida VI
-Cï¿½rculo de Curaciï¿½n VI
+Círculo de Curación VI
 Torbellino VI
 Torrente de Golpes VI
 Flecha Radiante VII
 Ataque Trueno VII
-Rï¿½faga VII
+Ráfaga VII
 Arremetida VII
-Cï¿½rculo de Curaciï¿½n VII
+Círculo de Curación VII
 Torbellino VII
 Torrente de Golpes VII
 Flecha Radiante VIII
 Ataque Trueno VIII
-Rï¿½faga VIII
+Ráfaga VIII
 Arremetida VIII
 Torbellino VIII
 Torrente de Golpes VIII
 Flecha Radiante IX
 Ataque Trueno IX
-Rï¿½faga IX
+Ráfaga IX
 Torbellino IX
 Torrente de Golpes IX
 Ataque Trueno X
-Rï¿½faga X
+Ráfaga X
 Torbellino X
-Rï¿½faga XI
+Ráfaga XI
 Torbellino XI
 Flecha Penetrante I
 Aplanar I
 Atadura Ancestral I
 Disparo Directo I
 Grito Desafiante I
-Rollos Evasivos
+Evasive Rolls
 Pulso Arcano I
 Ataque Explosivo I
 Lluvia de Golpes I
@@ -355,220 +355,220 @@ Aplanar XI
 Lluvia de Golpes XI
 Flecha Penetrante XII
 Lluvia de Flechas I
-Carrera I
-Favor TitÃ¡nico I
-Disparo Rï¿½pido I
-Golpe de escudo
-BendiciÃ³n de Shakan I
-Carrera I
-InfusiÃ³n de manÃ¡ I
-Ataque Sombrï¿½o I
+Dash I
+Titanic Favor I
+Disparo Rápido I
+Shield Bash
+Blessing of Shakan I
+Dash I
+Mana Infusion I
+Ataque Sombrío I
 Grito de Batalla I
-Favor TitÃ¡nico I
-Ataque Sombrï¿½o I
+Titanic Favor I
+Ataque Sombrío I
 Lluvia de Flechas II
-Carrera II
-Favor TitÃ¡nico II
-Disparo Rï¿½pido II
-BendiciÃ³n de Shakan II
-Carrera II
-InfusiÃ³n de manÃ¡ II
-Ataque Sombrï¿½o II
+Dash II
+Titanic Favor II
+Disparo Rápido II
+Blessing of Shakan II
+Dash II
+Mana Infusion II
+Ataque Sombrío II
 Grito de Batalla II
-Favor TitÃ¡nico II
-Ataque Sombrï¿½o II
-Favor TitÃ¡nico III
-Disparo Rï¿½pido III
-Carrera III
-Ataque Sombrï¿½o III
+Titanic Favor II
+Ataque Sombrío II
+Titanic Favor III
+Disparo Rápido III
+Dash III
+Ataque Sombrío III
 Grito de Batalla III
-Favor TitÃ¡nico III
-Ataque Sombrï¿½o III
-Favor TitÃ¡nico IV
-Disparo Rï¿½pido IV
+Titanic Favor III
+Ataque Sombrío III
+Titanic Favor IV
+Disparo Rápido IV
 Grito de Batalla IV
-Favor TitÃ¡nico IV
-Favor TitÃ¡nico V
-Disparo Rï¿½pido V
+Titanic Favor IV
+Titanic Favor V
+Disparo Rápido V
 Grito de Batalla V
-Favor TitÃ¡nico V
-Favor TitÃ¡nico VI
-Disparo Rï¿½pido VI
+Titanic Favor V
+Titanic Favor VI
+Disparo Rápido VI
 Grito de Batalla VI
-Favor TitÃ¡nico VI
-Favor TitÃ¡nico VII
-Disparo Rï¿½pido VII
+Titanic Favor VI
+Titanic Favor VII
+Disparo Rápido VII
 Grito de Batalla VII
-Favor TitÃ¡nico VII
-Favor TitÃ¡nico VIII
-Disparo Rï¿½pido VIII
+Titanic Favor VII
+Titanic Favor VIII
+Disparo Rápido VIII
 Grito de Batalla VIII
-Favor TitÃ¡nico VIII
-Favor TitÃ¡nico IX
-Disparo Rï¿½pido IX
+Titanic Favor VIII
+Titanic Favor IX
+Disparo Rápido IX
 Grito de Batalla IX
-Disparo Rï¿½pido X
-Paso atrÃ¡s
+Disparo Rápido X
+Backstep
 Golpe Tambaleante I
-El lÃ¡tigo de Shara
+Shara's Lash
 Bomba de Tiempo I
 Arise I
-Puï¿½alada I
-Explosiï¿½n de Fuego I
+Puñalada I
+Explosión de Fuego I
 Espiral de la Muerte I
 Espiral de la Muerte I
 Espiral de la Muerte I
 Golpe Tambaleante II
 Bomba de Tiempo II
 Arise II
-Puï¿½alada II
-Explosiï¿½n de Fuego II
+Puñalada II
+Explosión de Fuego II
 Espiral de la Muerte II
 Espiral de la Muerte II
 Espiral de la Muerte II
 Golpe Tambaleante III
 Bomba de Tiempo III
-Explosiï¿½n de Fuego III
+Explosión de Fuego III
 Golpe Tambaleante IV
 Bomba de Tiempo IV
-Explosiï¿½n de Fuego IV
+Explosión de Fuego IV
 Golpe Tambaleante V
 Bomba de Tiempo V
-Explosiï¿½n de Fuego V
+Explosión de Fuego V
 Bomba de Tiempo VI
-Explosiï¿½n de Fuego VI
+Explosión de Fuego VI
 Bomba de Tiempo VII
-Explosiï¿½n de Fuego VII
+Explosión de Fuego VII
 Bomba de Tiempo VIII
 Bomba de Tiempo IX
 Bomba de Tiempo X
 Bomba de Tiempo XI
-Fingir Muerte I
-Burla
-InfusiÃ³n de ManÃ¡
+Feign Death I
+Taunt
+Mana Infusion
 Bombardeo Arcano I
 Guardian Shout I
-Sueï¿½o I
-Grito triunfal I
-Paso atrÃ¡s
+Sueño I
+Triumphant Shout I
+Backstep
 Juicio Final I
 Juicio Final I
 Juicio Final I
-Fingir Muerte II
+Feign Death II
 Bombardeo Arcano II
 Guardian Shout II
-Sueï¿½o II
-Grito triunfal II
+Sueño II
+Triumphant Shout II
 Juicio Final II
 Juicio Final II
 Juicio Final II
-Fingir Muerte III
+Feign Death III
 Bombardeo Arcano III
 Guardian Shout III
-Sueï¿½o III
+Sueño III
 Bombardeo Arcano IV
 Bombardeo Arcano V
 Bombardeo Arcano VI
 Bombardeo Arcano VII
 Bombardeo Arcano VIII
-Fuego Rï¿½pido I
-Furia Ardiente I
-Explosiï¿½n Metamï¿½rfica I
+Fuego Rápido I
+Fiery Rage I
+Explosión Metamórfica I
 Contrataque con Escudo I
-InfusiÃ³n de manÃ¡
+Mana Infusion
 Golpe Maestro I
 Pilar en Llamas I
 Serrucho I
-Postura de Asalto I
+Assault Stance I
 Golpe Maestro I
 Serrucho I
-Fuego Rï¿½pido II
-Furia Ardiente II
-Explosiï¿½n Metamï¿½rfica II
+Fuego Rápido II
+Fiery Rage II
+Explosión Metamórfica II
 Contrataque con Escudo II
 Golpe Maestro II
 Pilar en Llamas II
 Serrucho II
-Postura de Asalto II
+Assault Stance II
 Golpe Maestro II
 Serrucho II
-Fuego Rï¿½pido III
-Furia Ardiente III
-Explosiï¿½n Metamï¿½rfica III
+Fuego Rápido III
+Fiery Rage III
+Explosión Metamórfica III
 Contrataque con Escudo III
 Golpe Maestro III
 Pilar en Llamas III
-Postura de Asalto III
+Assault Stance III
 Golpe Maestro III
-Fuego Rï¿½pido IV
-Furia Ardiente IV
-Explosiï¿½n Metamï¿½rfica IV
+Fuego Rápido IV
+Fiery Rage IV
+Explosión Metamórfica IV
 Contrataque con Escudo IV
 Golpe Maestro IV
 Pilar en Llamas IV
-Postura de Asalto IV
+Assault Stance IV
 Golpe Maestro IV
-Fuego Rï¿½pido V
-Furia Ardiente V
-Explosiï¿½n Metamï¿½rfica V
+Fuego Rápido V
+Fiery Rage V
+Explosión Metamórfica V
 Contrataque con Escudo V
 Golpe Maestro V
 Pilar en Llamas V
 Golpe Maestro V
-Fuego Rï¿½pido VI
-Furia Ardiente VI
-Explosiï¿½n Metamï¿½rfica VI
+Fuego Rápido VI
+Fiery Rage VI
+Explosión Metamórfica VI
 Contrataque con Escudo VI
 Golpe Maestro VI
 Pilar en Llamas VI
 Golpe Maestro VI
-Fuego Rï¿½pido VII
-Explosiï¿½n Metamï¿½rfica VII
+Fuego Rápido VII
+Explosión Metamórfica VII
 Contrataque con Escudo VII
 Golpe Maestro VII
 Pilar en Llamas VII
 Golpe Maestro VII
-Fuego Rï¿½pido VIII
-Explosiï¿½n Metamï¿½rfica VIII
+Fuego Rápido VIII
+Explosión Metamórfica VIII
 Golpe Maestro VIII
 Pilar en Llamas VIII
 Golpe Maestro VIII
-Fuego Rï¿½pido IX
-Explosiï¿½n Metamï¿½rfica IX
+Fuego Rápido IX
+Explosión Metamórfica IX
 Golpe Maestro IX
 Pilar en Llamas IX
 Golpe Maestro IX
-Explosiï¿½n Metamï¿½rfica X
+Explosión Metamórfica X
 Pilar en Llamas X
-Explosiï¿½n Metamï¿½rfica XI
+Explosión Metamórfica XI
 Pilar en Llamas XI
 Trampa de Lentitud I
-Grito triunfal I
-Toque limpiador de Arun
+Triumphant Shout I
+Arun's Cleansing Touch
 Misiles de Mana I
 Correa I
 Ataque de Salto I
 Sobrecanalizar I
-Golpe
-Postura defensiva I
+Smite
+Defensive Stance I
 Trampa de Lentitud II
-Grito triunfal II
+Triumphant Shout II
 Misiles de Mana II
 Correa II
 Ataque de Salto II
 Sobrecanalizar II
-Postura defensiva II
+Defensive Stance II
 Trampa de Lentitud III
 Misiles de Mana III
 Correa III
 Ataque de Salto III
 Sobrecanalizar III
-Postura defensiva III
+Defensive Stance III
 Trampa de Lentitud IV
 Misiles de Mana IV
 Ataque de Salto IV
 Sobrecanalizar IV
-Postura defensiva IV
+Defensive Stance IV
 Trampa de Lentitud V
 Misiles de Mana V
 Ataque de Salto V
@@ -584,94 +584,94 @@ Ataque de Salto VIII
 Misiles de Mana IX
 Misiles de Mana X
 Trampa de Aturdimiento I
-Ciclï¿½n I
+Ciclón I
 Resurrection
 Bomba Arco I
 Debilitar I
-CÃ­rculo Purificante
+Purifying Circle
 Represalias I
 Mana Barrier I
-Golpe Pï¿½ndulo I
+Golpe Péndulo I
 Muerte del Cielo I
-Golpe Pï¿½ndulo I
+Golpe Péndulo I
 Trampa de Aturdimiento II
-Ciclï¿½n II
+Ciclón II
 Bomba Arco II
 Debilitar II
 Represalias II
 Mana Barrier II
-Golpe Pï¿½ndulo II
+Golpe Péndulo II
 Muerte del Cielo II
-Golpe Pï¿½ndulo II
+Golpe Péndulo II
 Trampa de Aturdimiento III
-Ciclï¿½n III
+Ciclón III
 Bomba Arco III
 Debilitate III
 Represalias III
 Mana Barrier III
 Muerte del Cielo III
 Trampa de Aturdimiento IV
-Ciclï¿½n IV
+Ciclón IV
 Bomba Arco IV
 Represalias IV
 Muerte del Cielo IV
-Ciclï¿½n V
+Ciclón V
 Bomba Arco V
 Represalias V
 Muerte del Cielo V
-Ciclï¿½n VI
+Ciclón VI
 Bomba Arco VI
 Represalias VI
 Muerte del Cielo VI
-Ciclï¿½n VII
+Ciclón VII
 Bomba Arco VII
 Represalias VII
 Muerte del Cielo VII
-Ciclï¿½n VIII
+Ciclón VIII
 Bomba Arco VIII
 Represalias VIII
-Ciclï¿½n IX
+Ciclón IX
 Bomba Arco IX
 Represalias IX
-Ciclï¿½n X
+Ciclón X
 Bomba Arco X
 Represalias X
-Ciclï¿½n XI
+Ciclón XI
 Bomba Arco XI
 Trampa Venenosa I
 Ataque de Salto I
-Summon: Grupo
+Summon: Party
 Salto de Cohete I
 Represalias I
-Explosiï¿½n Metamï¿½rfica I
+Explosión Metamórfica I
 Bomba de Magma I
-Azote Sombrï¿½o I
+Azote Sombrío I
 Hoja Venenosa I
-Azote Sombrï¿½o I
-Azote Sombrï¿½o I
-Azote Sombrï¿½o I
+Azote Sombrío I
+Azote Sombrío I
+Azote Sombrío I
 Super Salto de Cohete I
 Bomba de Magma I
-Azote Sombrï¿½o I
+Azote Sombrío I
 Trampa Venenosa II
 Ataque de Salto II
 Salto de Cohete II
 Represalias II
-Explosiï¿½n Metamï¿½rfica II
+Explosión Metamórfica II
 Bomba de Magma II
-Azote Sombrï¿½o II
+Azote Sombrío II
 Hoja Venenosa II
-Azote Sombrï¿½o II
-Azote Sombrï¿½o II
-Azote Sombrï¿½o II
+Azote Sombrío II
+Azote Sombrío II
+Azote Sombrío II
 Super Salto de Cohete II
 Bomba de Magma II
-Azote Sombrï¿½o II
+Azote Sombrío II
 Trampa Venenosa III
 Ataque de Salto III
 Salto de Cohete III
 Represalias III
-Explosiï¿½n Metamï¿½rfica III
+Explosión Metamórfica III
 Bomba de Magma III
 Hoja Venenosa III
 Super Salto de Cohete III
@@ -680,7 +680,7 @@ Trampa Venenosa IV
 Ataque de Salto IV
 Salto de Cohete IV
 Represalias IV
-Explosiï¿½n Metamï¿½rfica IV
+Explosión Metamórfica IV
 Bomba de Magma IV
 Hoja Venenosa IV
 Super Salto de Cohete IV
@@ -689,7 +689,7 @@ Trampa Venenosa V
 Ataque de Salto V
 Salto de Cohete V
 Represalias V
-Explosiï¿½n Metamï¿½rfica V
+Explosión Metamórfica V
 Bomba de Magma V
 Hoja Venenosa V
 Super Salto de Cohete V
@@ -697,7 +697,7 @@ Bomba de Magma V
 Ataque de Salto VI
 Salto de Cohete VI
 Represalias VI
-Explosiï¿½n Metamï¿½rfica VI
+Explosión Metamórfica VI
 Bomba de Magma VI
 Hoja Venenosa VI
 Super Salto de Cohete VI
@@ -705,7 +705,7 @@ Bomba de Magma VI
 Ataque de Salto VII
 Salto de Cohete VII
 Represalias VII
-Explosiï¿½n Metamï¿½rfica VII
+Explosión Metamórfica VII
 Bomba de Magma VII
 Hoja Venenosa VII
 Super Salto de Cohete VII
@@ -713,256 +713,256 @@ Bomba de Magma VII
 Ataque de Salto VIII
 Salto de Cohete VIII
 Represalias VIII
-Explosiï¿½n Metamï¿½rfica VIII
+Explosión Metamórfica VIII
 Bomba de Magma VIII
 Hoja Venenosa VIII
 Super Salto de Cohete VIII
 Bomba de Magma VIII
 Salto de Cohete IX
 Represalias IX
-Explosiï¿½n Metamï¿½rfica IX
+Explosión Metamórfica IX
 Bomba de Magma IX
 Super Salto de Cohete IX
 Bomba de Magma IX
 Represalias X
-Explosiï¿½n Metamï¿½rfica X
+Explosión Metamórfica X
 Bomba de Magma X
 Bomba de Magma X
-Explosiï¿½n Metamï¿½rfica XI
+Explosión Metamórfica XI
 Bomba de Magma XI
-Invocar: Castrado en la bahÃ­a
-Invocar: Castrado rÃ¡pido de la bahÃ­a
-Invocar: Corcel de honor
-Invocar: Semental Blanco RÃ¡pido
-Invocar: Manzana Arcadia
-Invocar: Castrado CastaÃ±o
-Invocar: Velikan Gris
+Invocar: Bay Gelding
+Invocar: Fast Bay Gelding
+Invocar: Honor Steed
+Invocar: Fast White Stallion
+Invocar: Arcadian Dapple
+Invocar: Chestnut Gelding
+Invocar: Velikan Gray
 Invocar: Pinto
-Invocar: Azul Roan
-Invocar: Corcel de Batalla
-Invocar: Manzana Arcadiana RÃ¡pida
-Invocar: RÃ¡pido Pinto
-Invocar: Yegua Nocturna
-Invocar: Corcel de FederaciÃ³n
-Invocar: Corcel de inicio rÃ¡pido
-Invocar: Semental Blanco
-Invocar: Manzana Arcadia
-Invocar: Azul Roan
-Invocar: Velikan Gris
+Invocar: Blue Roan
+Invocar: Battle Charger
+Invocar: Fast Arcadian Dapple
+Invocar: Fast Pinto
+Invocar: Night Mare
+Invocar: Federation Charger
+Invocar: Quick-Start Charger
+Invocar: White Stallion
+Invocar: Arcadian Dapple
+Invocar: Blue Roan
+Invocar: Velikan Gray
 Invocar: Pinto
-Invocar: Castrado CastaÃ±o
+Invocar: Chestnut Gelding
 Invocar: Regal Frostlion
 Invocar: Sleipnir
 Invocar: EX-TRM
-Invocar: Ardiente
-Invocar: Batidor de huesos
+Invocar: Smolder
+Invocar: Boneshaker
 Invocar: Munchhausen
 Invocar: Gourmando
 Invocar: Sheldon
 Invocar: Regulus
 Bomba de Magma XI
-Invocar: Arco iris
+Invocar: Rainbow
 Invocar: Terminus
-Invocar: Manzana Arcadiana RÃ¡pida
-Invocar: RÃ¡pido Velikan Gris
-Invocar: Corcel de muerte
-Invocar: Corcel de Sombra
-Invocar: Cebra EÃ³lica
-Invocar: Leopardo negro
+Invocar: Fast Arcadian Dapple
+Invocar: Fast Velikan Gray
+Invocar: Death Charger
+Invocar: Shadow Steed
+Invocar: Aeolian Zebra
+Invocar: Black Leopard
 Invocar: Razormane
-Invocar: Ventisquero
+Invocar: Snowdrift
 Invocar: EX-TRM
 Invocar: Sheldon
 Invocar: Munchhausen
 Invocar: Gourmando
-Invocar: Graznido
-Invocar: Resplandor
-Invocar: PÃ­o
-Invocar: Ãmbar
-Invocar: Graznido
-Invocar: Graznido
-Invocar: Resplandor
-Invocar: Resplandor
-Invocar: PÃ­o
-Invocar: PÃ­o
-Invocar: Ãmbar
-Invocar: Ãmbar
-Invoca Mascota: CÃºspide de caramelo
+Invocar: Squawk
+Invocar: Blaze
+Invocar: Peep
+Invocar: Ember
+Invocar: Squawk
+Invocar: Squawk
+Invocar: Blaze
+Invocar: Blaze
+Invocar: Peep
+Invocar: Peep
+Invocar: Ember
+Invocar: Ember
+Invoca Mascota: Candyspinner
 Invocar: Quackerjack
 Invocar: Quackerjack
 Invocar: Duckerberg
 Invocar: Duckerberg
-Invocar: Pato Afro Blanco
-Invocar: Pato Afro Blanco
-Invocar: Pato Negro Afro (Estamina)
-Invocar: Pato Negro Afro (Estamina)
-Invocar: Patos
-Invocar: Harry El sucio
-Invocar: Jefe
+Invocar: White Afro Duck
+Invocar: White Afro Duck
+Invocar: Black Afro Duck (Estamina)
+Invocar: Black Afro Duck (Estamina)
+Invocar: Waddles
+Invocar: Harry Porker
+Invocar: Boss
 Invocar: Petunia
 Invocar: Harley
-Invocar: RÃ¡pido Velikan Gris
-Invocar: Corcel de Sombra
-Invocar: Electrum Viento
-Invocar: Nexus Caballo de Guerra
+Invocar: Fast Velikan Gray
+Invocar: Shadow Steed
+Invocar: Electrum Wind
+Invocar: Nexus Warhorse
 Invocar: Razormane
-Invocar: Cebra EÃ³lica
-Invocar: Corcel de muerte
-Invocar: LeÃ³n Joyero
-Invocar: Leopardo
-Invocar: Leopardo negro
-Invocar: Yegua Nocturna
+Invocar: Aeolian Zebra
+Invocar: Death Charger
+Invocar: Jeweled Lion
+Invocar: Tawny Huntress
+Invocar: Black Leopard
+Invocar: Night Mare
 Invocar: Petunia
-Invocar: Lupus obscuro
+Invocar: Lupus Obscurus
 Invocar: Lupus Aeris
 Invocar: Lupus Aeris
-Invocar: Lupus Nocturno
+Invocar: Lupus Noctus
 Invocar: Lupus Argentum
-Invocar: Tigre de Nieve
-Invocar: Tigre de nieve listo para la batalla
-Invocar: Tigre de Bengala
-Invocar: Tigre de Bengala listo para la batalla
+Invocar: Snow Tiger
+Invocar: Battle Ready Snow Tiger
+Invocar: Bengal Tiger
+Invocar: Battle Ready Bengal Tiger
 
-Invocar: Fuerza de Luz Tenue
-Invocar: Brillo de luz
-Invocar: Corazoncito
-Invocar: Lupus Nocturno
-Invocar: Resplandor de ceniza
-Invocar: CorazÃ³n de Cenicienta
-Invocar: Lupus obscuro
-Invocar: CorazÃ³n de blitz
-Invocar: CorazÃ³n Templado
-Invocar: CorazÃ³n Rajado
-Invocar: Tigre B
-Invocar: Tigre B
-Invocar: Tigre B
-Invocar: Tigre D
-Invocar: Tigre D
-Invocar: Tigre D
+Invocar: Glimmerforce
+Invocar: Glimmershine
+Invocar: Glimmerheart
+Invocar: Lupus Noctus
+Invocar: Cinderglow
+Invocar: Cinderheart
+Invocar: Lupus Obscurus
+Invocar: Blitzheart
+Invocar: Temperheart
+Invocar: Slasheart
+Invocar: Tiger B
+Invocar: Tiger B
+Invocar: Tiger B
+Invocar: Tiger D
+Invocar: Tiger D
+Invocar: Tiger D
 Invocar: Saolo
 Invocar: Paolo
 Invocar: Tigerinho
 Invocar: Tigeraldo
 Invocar: Saolo
-Invocar: EnergÃ©tico Saolo
-Invocar: Duro Saolo
-Invocar: Incansable Saolo
+Invocar: Energetic Saolo
+Invocar: Tough Saolo
+Invocar: Tireless Saolo
 Invocar: Paolo
-Invocar: EnergÃ©tico Paolo
-Invocar: Paolo el incansable
+Invocar: Energetic Paolo
+Invocar: Tireless Paolo
 Invocar: Tigerinho
-Invocar: Tigerinho energÃ©tico
-Invocar: Tigerinho duro
-Invocar: Incansable Tigerinho
+Invocar: Energetic Tigerinho
+Invocar: Tough Tigerinho
+Invocar: Tireless Tigerinho
 Invocar: Tigeraldo
-Invocar: Tigeraldo EnergÃ©tico
-Invocar: Tigeraldo el duro
-Invocar: Incansable Tigeraldo
-Invocar: Duro Paolo
-Invocar: Cola de Escarcha
-Invocar: Cola de escarcha mÃ­tica
-Invocar: Cola de escarcha legendaria
-Invocar: Cola de escarcha legendaria
-Invocar: LeÃ³n Joyero
-Invocar: Cola de Ã¡mbar
-Invocar: MÃ­tica cola de Ã¡mbar
-Invocar: Cola de Ã¡mbar de la fÃ¡bula
-Invocar: Cola de Ã¡mbar
-Invocar: Coche de policÃ­a
-Invocar: Coche de policÃ­a tuneado
-Invocar: Coche de policÃ­a pulido
-Invocar: Coche de policÃ­a con gas
-Invocar: Arco Iris Legendario
-Invocar: Sleipnir MÃ­tico
-Invocar: Yegua nocturna legendaria
-Invocar: Bailarina de huesos legendaria
-Invocar: Ventisquero mÃ­tico
-Invocar: La legendaria Leopardo
-Invocar: FerreterÃ­a
-Invocar: Fyrewing MÃ­tico
-Invocar: FÃ¡bula Fyrewing
-Invocar: Fyrewing legendario
-Invocar: Senderismo Kumas
-Invocar: Caminata alegre Kumas
-Invocar: Senderismo Jovial Kumas
-Invocar: Caminata benÃ©fica Kumas
-Invocar: Kumas de Navidad Wintera
-Invocar: Alegres Kumas navideÃ±os Wintera
-Invocar: Kumas navideÃ±os Jovial Wintera
-Invocar: Kumas navideÃ±os benÃ©ficos de la Wintera
-Invocar: Wintera Mordedura de nieve
-Invocar: Alegres Wintera Mordedura de nieve
-Invocar: Mordedura de nieve Jovial Wintera
-Invocar: Wintera Mordedura de nieve benÃ©fica
-Invocar: Kumas de Navidad
-Invocar: Kumas navideÃ±os alegres
-Invocar: Kumas de Navidad Jovial
-Invocar: Kumas de Navidad benÃ©ficos
-Invocar: Mordedura de nieve
-Invocar: Mordida de nieve alegre
-Invocar: Mordedura de Nieve Jovial
-Invocar: Mordida de nieve benÃ©fica
-Invocar: Ala de oro 
-Invocar: El mÃ­tico Goldwing 
-Invocar: El legendario Goldwing 
-Invocar: El legendario Goldwing 
+Invocar: Energetic Tigeraldo
+Invocar: Tough Tigeraldo
+Invocar: Tireless Tigeraldo
+Invocar: Tough Paolo
+Invocar: Frost Tail
+Invocar: Mythical Frost Tail
+Invocar: Fabled Frost Tail
+Invocar: Legendary Frost Tail
+Invocar: Jeweled Lion
+Invocar: Ember Tail
+Invocar: Mythical Ember Tail
+Invocar: Fabled Ember Tail
+Invocar: Ember Tail
+Invocar: Police Car
+Invocar: Tuned Police Car
+Invocar: Polished Police Car
+Invocar: Gassed-Up Police Car
+Invocar: Legendary Rainbow
+Invocar: Mythical Sleipnir
+Invocar: Fabled Night Mare
+Invocar: Legendary Bone Dancer
+Invocar: Mythical Snowdrift
+Invocar: Fabled Tawny Huntress
+Invocar: Fyrewing
+Invocar: Mythical Fyrewing
+Invocar: Fabled Fyrewing
+Invocar: Legendary Fyrewing
+Invocar: Trekking Kumas
+Invocar: Cheerful Trekking Kumas
+Invocar: Jovial Trekking Kumas
+Invocar: Charitable Trekking Kumas
+Invocar: Wintera Christmas Kumas
+Invocar: Cheerful Wintera Christmas Kumas
+Invocar: Jovial Wintera Christmas Kumas
+Invocar: Charitable Wintera Christmas Kumas
+Invocar: Wintera Snowbite
+Invocar: Cheerful Wintera Snowbite
+Invocar: Jovial Wintera Snowbite
+Invocar: Charitable Wintera Snowbite
+Invocar: Christmas Kumas
+Invocar: Cheerful Christmas Kumas
+Invocar: Jovial Christmas Kumas
+Invocar: Charitable Christmas Kumas
+Invocar: Snowbite
+Invocar: Cheerful Snowbite
+Invocar: Jovial Snowbite
+Invocar: Charitable Snowbite
+Invocar: Goldwing 
+Invocar: Mythical Goldwing 
+Invocar: Fabled Goldwing 
+Invocar: Legendary Goldwing 
 
 
 
 
-Invocar: Perla Negra
+Invocar: Black Pearl
 Marca de Velik I
 Ira Desencadenada I
-Voto de renacimiento
-Enfurecer
+Vow of Rebirth
+Infuriate
 Resurrection
-Empuje de Corazï¿½n I
-Pulso Vacï¿½o I
-Rï¿½faga de Sombra I
+Empuje de Corazón I
+Pulso Vacío I
+Ráfaga de Sombra I
 Ataque de Salto I
-Rï¿½faga de Sombra I
-Bomba Elï¿½ctrica I
-Rï¿½faga de Sombra I
+Ráfaga de Sombra I
+Bomba Eléctrica I
+Ráfaga de Sombra I
 Marca de Velik II
 Ira Desencadenada II
-Empuje de Corazï¿½n II
-Pulso Vacï¿½o II
-Rï¿½faga de Sombra II
+Empuje de Corazón II
+Pulso Vacío II
+Ráfaga de Sombra II
 Ataque de Salto II
-Rï¿½faga de Sombra II
-Bomba Elï¿½ctrica II
-Rï¿½faga de Sombra II
+Ráfaga de Sombra II
+Bomba Eléctrica II
+Ráfaga de Sombra II
 Marca de Velik III
 Ira Desencadenada III
-Empuje de Corazï¿½n III
-Pulso Vacï¿½o III
+Empuje de Corazón III
+Pulso Vacío III
 Ataque de Salto III
-Bomba Elï¿½ctrica III
+Bomba Eléctrica III
 Ira Desencadenada IV
-Empuje de Corazï¿½n IV
-Pulso Vacï¿½o IV
+Empuje de Corazón IV
+Pulso Vacío IV
 Ataque de Salto IV
-Bomba Elï¿½ctrica IV
+Bomba Eléctrica IV
 Ira Desencadenada V
-Empuje de Corazï¿½n V
-Pulso Vacï¿½o V
+Empuje de Corazón V
+Pulso Vacío V
 Ataque de Salto V
-Bomba Elï¿½ctrica V
+Bomba Eléctrica V
 Ira Desencadenada VI
-Pulso Vacï¿½o VI
+Pulso Vacío VI
 Ataque de Salto VI
-Bomba Elï¿½ctrica VI
+Bomba Eléctrica VI
 Ira Desencadenada VII
 Ataque de Salto VII
 Ira Desencadenada VIII
 Ataque de Salto VIII
-Invocar: Cebra EÃ³lica
-Invocar: Corcel de Muerte
-Invoca Mascota: Felicidad
-Invoca Mascota: Cero
-Invoca Mascota: SeÃ±orita katonic
-Invoca Mascota: Dedo meÃ±ique
-Invoca Mascota: Oxidado
+Invocar: Aeolian Zebra
+Invocar: Death Charger
+Invoca Mascota: Ser Picks-a-lot
+Invoca Mascota: Zero
+Invoca Mascota: Miss Katonic
+Invoca Mascota: Pinkie
+Invoca Mascota: Rusty
 Invoca Mascota: Rainie
 Invocar: Saolo
 Invocar: Paolo
@@ -971,110 +971,110 @@ Invocar: Tigeraldo
 Invocar: Fyrewing
 Invoca Mascota: Peddit
 Invoca Mascota: Caddy
-Invocar: Huesos EnergÃ©ticos
-Invocar: Huesero Duro
-Invocar: legendaria bailarina de huesos
-Invocar: EnergÃ©tico EX-TRM
-Invocar: Duro EX-TRM
-Invocar: Incansable EX-TRM
-Invocar: Deportivo RX800 Turbo
-Invocar: Deportivo Sintonizado RX800 Turbo
-Invocar: Deportivo Pulido RX800 Turbo
-Invocar: Deportivo a Gas RX800 Turbo
-Invocar: Deportivo SX800 Turbo
-Invocar: Deportivo Sintonizado SX800 Turbo
-Invocar: Deportivo Pulido SX800 Turbo
-Invocar: Deportivo a Gas SX800 Turbo
-Invocar: Deportivo GX800 Turbo
-Invocar: Deportivo Sintonizado GX800 Turbo
-Invocar: Deportivo Pulido GX800 Turbo
-Invocar: Deportivo a Gas GX800 Turbo
-Invocar: Deportivo RX850 Turbo
-Invocar: Deportivo SX850 Turbo
-Invocar: Deportivo GX850 Turbo
-Invocar: escarabajo vivo
-Invocar: escarabajo animado energetico
-Invocar: escarabajo duro vivaz
-Invocar: escarabajo vivaz incansable
-Invocar: escarabajo nocivo
-Invocar: escarabajo energÃ©tico nocivo
-Invocar: escarabajo duro y daÃ±ino
-Invocar: escarabajo incansable y daÃ±ino
-Invocar: escarabajo fuerte
-Invocar: escarabajo energÃ©tico fuerte
-Invocar: escarabajo fuerte resistente
-Invocar: escarabajo fuerte incansable
-Invocar: escarabajo raro animado
-Invocar: escarabajo raro animado energetico
-Invocar: Escarabajo animado raro y duro
-Invocar: Escarabajo Raro Incansable Lively
-Invocar: escarabajo raro daÃ±ino
-Invocar: escarabajo nocivo energÃ©tico raro
-Invocar: Escarabajo Raro Duro DaÃ±oso
-Invocar: escarabajo raro incansable daÃ±ino
-Invocar: escarabajo fuerte raro
-Invocar: escarabajo fuerte de energÃ­a rara
-Invocar: escarabajo fuerte resistente
-Invocar: Escarabajo Raro Incansable Fuerte
-Invocar: cola esmeralda
-Invocar: Cola MÃ­tica Esmeraldada
-Invocar: Cola de esmeralda de fÃ¡bula
-Invocar: Cola Esmeralda Legendaria
-Invocar: cola de coral
-Invocar: cola de coral mÃ­tica
-Invocar: Cola de coral de fÃ¡bula
-Invocar: Cola de coral legendaria
-Invocar: Unicornio
-Invocar: Unicornio MÃ­tico
-Invocar: Unicornio de FÃ¡bula
-Invocar: Unicornio legendario
-Invocar: coche de policÃ­a sintonizado
-Invocar: Coche de policÃ­a pulido
-Invocar: coche de policÃ­a a gas
+Invocar: Energetic Boneshaker
+Invocar: Tough Boneshaker
+Invocar: Legendary Bone Dancer
+Invocar: Energetic EX-TRM
+Invocar: Tough EX-TRM
+Invocar: Tireless EX-TRM
+Invocar: Sport RX800 Turbo
+Invocar: Tuned Sport RX800 Turbo
+Invocar: Polished Sport RX800 Turbo
+Invocar: Gassed-Up Sport RX800 Turbo
+Invocar: Sport SX800 Turbo
+Invocar: Tuned Sport SX800 Turbo
+Invocar: Polished Sport SX800 Turbo
+Invocar: Gassed-Up Sport SX800 Turbo
+Invocar: Sport GX800 Turbo
+Invocar: Tuned Sport GX800 Turbo
+Invocar: Polished Sport GX800 Turbo
+Invocar: Gassed-Up Sport GX800 Turbo
+Invocar: Sport RX850 Turbo
+Invocar: Sport SX850 Turbo
+Invocar: Sport GX850 Turbo
+Invocar: Lively beetle
+Invocar: Energetic Lively beetle
+Invocar: Tough Lively beetle
+Invocar: Tireless Lively beetle
+Invocar: Harmful beetle
+Invocar: Energetic Harmful beetle
+Invocar: Tough Harmful beetle
+Invocar: Tireless Harmful beetle
+Invocar: Strong beetle
+Invocar: Energetic Strong beetle
+Invocar: Tough Strong beetle
+Invocar: Tireless Strong beetle
+Invocar: Rare Lively beetle
+Invocar: Rare Energetic Lively beetle
+Invocar: Rare Tough Lively beetle
+Invocar: Rare Tireless Lively beetle
+Invocar: Rare Harmful beetle
+Invocar: Rare Energetic Harmful beetle
+Invocar: Rare Tough Harmful beetle
+Invocar: Rare Tireless Harmful beetle
+Invocar: Rare Strong beetle
+Invocar: Rare Energetic Strong beetle
+Invocar: Tough Strong beetle
+Invocar: Rare Tireless Strong beetle
+Invocar: Emerald Tail
+Invocar: Mythical Emerald Tail
+Invocar: Fabled Emerald Tail
+Invocar: Legendary Emerald Tail
+Invocar: Coral Tail
+Invocar: Mythical Coral Tail
+Invocar: Fabled Coral Tail
+Invocar: Legendary Coral Tail
+Invocar: Unicorn
+Invocar: Mythical Unicorn
+Invocar: Fabled Unicorn
+Invocar: Legendary Unicorn
+Invocar: Tuned Police Car
+Invocar: Polished Police Car
+Invocar: Gassed-Up Police Car
 Represalias I
-Aura de lo despiadado I
+Aura of the Merciless I
 La Venganza de Balder I
 Ataque con Salto I
-De regreso a casa
-Revï¿½s Impresionante I
-Explosiï¿½n Mental I
-ReversiÃ³n de alma
+Homeward Bound
+Revés Impresionante I
+Explosión Mental I
+Soul Reversal
 Represalias I
-ReversiÃ³n de alma
+Soul Reversal
 Ataque con Salto I
-ReversiÃ³n de alma
+Soul Reversal
 Represalias II
-Aura de lo despiadado II
+Aura of the Merciless II
 La Venganza de Balder II
 Ataque con Salto II
-Revï¿½s Impresionante II
-Explosiï¿½n Mental II
+Revés Impresionante II
+Explosión Mental II
 Represalias II
 Ataque con Salto II
 Represalias III
 Ataque con Salto III
-Revï¿½s Impresionante III
-Explosiï¿½n Mental III
+Revés Impresionante III
+Explosión Mental III
 Represalias III
 Ataque con Salto III
 Represalias IV
 Ataque con Salto IV
-Revï¿½s Impresionante IV
+Revés Impresionante IV
 Represalias IV
 Ataque con Salto IV
 Represalias V
 Ataque con Salto V
-Revï¿½s Impresionante V
+Revés Impresionante V
 Represalias V
 Ataque con Salto V
 Represalias VI
 Ataque con Salto VI
-Revï¿½s Impresionante VI
+Revés Impresionante VI
 Represalias VI
 Ataque con Salto VI
 Represalias VII
 Ataque con Salto VII
-Revï¿½s Impresionante VII
+Revés Impresionante VII
 Represalias VII
 Ataque con Salto VII
 Represalias VIII
@@ -1091,14 +1091,14 @@ Represalias X
 Ataque con Salto X
 Ataque con Salto XI
 Represalias I
-Aura de Velocidad I
-Summon: Grupo
+Aura of the Swift I
+Summon: Party
 Hoja Distante I
 Represalias I
 Represalias I
 Mangle
 Represalias II
-Aura de Velocidad II
+Aura of the Swift II
 Hoja Distante II
 Represalias II
 Represalias II
@@ -1126,57 +1126,57 @@ Represalias IX
 Represalias X
 Represalias X
 Trampa Inciendiaria I
-Golpe Vampï¿½rico I
+Golpe Vampírico I
 Aura of the Unyielding I
-Reposiciï¿½n I
+Reposición I
 Estocada Cargada I
 Blessing of Zenobia
 Patada Sorprendente I
-Retribuciï¿½n I
-Retribuciï¿½n I
+Retribución I
+Retribución I
 Trampa Inciendiaria II
-Golpe Vampï¿½rico II
+Golpe Vampírico II
 Aura of the Unyielding II
-Reposiciï¿½n II
+Reposición II
 Estocada Cargada II
 Patada Sorprendente II
-Retribuciï¿½n II
-Retribuciï¿½n II
+Retribución II
+Retribución II
 Trampa Inciendiaria III
-Golpe Vampï¿½rico III
+Golpe Vampírico III
 Aura of the Unyielding III
-Reposiciï¿½n III
+Reposición III
 Estocada Cargada III
 Patada Sorprendente III
-Retribuciï¿½n III
-Retribuciï¿½n III
+Retribución III
+Retribución III
 Trampa Inciendiaria IV
-Golpe Vampï¿½rico IV
+Golpe Vampírico IV
 Aura of the Unyielding IV
-Reposiciï¿½n IV
+Reposición IV
 Estocada Cargada IV
 Patada Sorprendente IV
 Trampa Inciendiaria V
-Golpe Vampï¿½rico V
-Reposiciï¿½n V
+Golpe Vampírico V
+Reposición V
 Estocada Cargada V
 Patada Sorprendente V
 Trampa Inciendiaria VI
-Golpe Vampï¿½rico VI
-Reposiciï¿½n VI
+Golpe Vampírico VI
+Reposición VI
 Estocada Cargada VI
 Patada Sorprendente VI
 Trampa Inciendiaria VII
-Golpe Vampï¿½rico VII
-Reposiciï¿½n VII
+Golpe Vampírico VII
+Reposición VII
 Estocada Cargada VII
 Patada Sorprendente VII
-Golpe Vampï¿½rico VIII
-Reposiciï¿½n VIII
+Golpe Vampírico VIII
+Reposición VIII
 Estocada Cargada VIII
 Patada Sorprendente VIII
-Golpe Vampï¿½rico IX
-Reposiciï¿½n IX
+Golpe Vampírico IX
+Reposición IX
 Estocada Cargada IX
 Patada Sorprendente IX
 Estocada Cargada X
@@ -1184,242 +1184,242 @@ Flecha de Escape I
 Grito Temeroso I
 Aura of the Tenacious
 Impulso Extra I
-Implosiï¿½n Impresionante I
+Implosión Impresionante I
 Ataque Furioso I
-Explosiï¿½n de Dolor I
-FormaciÃ³n de sombras
+Explosión de Dolor I
+Shadow Reaping
 Cuchillada con Carga I
 Flecha de Escape II
 Grito Temeroso II
 Impulso Extra II
-Implosiï¿½n Impresionante II
+Implosión Impresionante II
 Ataque Furioso II
-Explosiï¿½n de Dolor II
+Explosión de Dolor II
 Cuchillada con Carga II
 Flecha de Escape III
 Grito Temeroso III
 Impulso Extra III
-Implosiï¿½n Impresionante III
+Implosión Impresionante III
 Ataque Furioso III
-Explosiï¿½n de Dolor III
+Explosión de Dolor III
 Cuchillada con Carga III
 Flecha de Escape IV
-Grito Temeroso IV
+Fearsome Shout IV
 Impulso Extra IV
-Implosiï¿½n Impresionante IV
+Implosión Impresionante IV
 Ataque Furioso IV
-Explosiï¿½n de Dolor IV
+Explosión de Dolor IV
 Cuchillada con Carga IV
 Flecha de Escape V
 Impulso Extra V
-Implosiï¿½n Impresionante V
-Explosiï¿½n de Dolor V
+Implosión Impresionante V
+Explosión de Dolor V
 Cuchillada con Carga V
 Flecha de Escape VI
 Impulso Extra VI
-Implosiï¿½n Impresionante VI
-Explosiï¿½n de Dolor VI
+Implosión Impresionante VI
+Explosión de Dolor VI
 Cuchillada con Carga VI
 Flecha de Escape VII
 Impulso Extra VII
-Implosiï¿½n Impresionante VII
-Explosiï¿½n de Dolor VII
+Implosión Impresionante VII
+Explosión de Dolor VII
 Cuchillada con Carga VII
 Flecha de Escape VIII
 Impulso Extra VIII
-Implosiï¿½n Impresionante VIII
-Explosiï¿½n de Dolor VIII
+Implosión Impresionante VIII
+Explosión de Dolor VIII
 Flecha de Escape IX
 Impulso Extra IX
-Implosiï¿½n Impresionante IX
-Explosiï¿½n de Dolor IX
+Implosión Impresionante IX
+Explosión de Dolor IX
 Flecha de Escape X
-Flecha Telaraï¿½a I
-Rï¿½faga de Golpes I
+Flecha Telaraña I
+Ráfaga de Golpes I
 Teleport
-SubidÃ³n de Adrenalina I
-Oraciï¿½n de Paz I
-Ataque Frontal I
+Adrenaline Rush I
+Oración de Paz I
+Headlong Rush I
 Trampa Dolorosa I
-Horca Espiritual
-Cuchillada de Vï¿½rtice I
-Horca Espiritual
-Flecha Telaraï¿½a II
-Rï¿½faga de Golpes II
-SubidÃ³n de adrenalina II
-Oraciï¿½n de Paz II
-Ataque Frontal II
+Spirit Gallows
+Cuchillada de Vórtice I
+Spirit Gallows
+Flecha Telaraña II
+Ráfaga de Golpes II
+Adrenaline Rush II
+Oración de Paz II
+Headlong Rush II
 Trampa Dolorosa II
-Cuchillaza de Vï¿½rtice II
-Flecha de Tela de AraÃ±a
-Oraciï¿½n de Paz III
-Ataque Frontal III
+Cuchillaza de Vórtice II
+Web Arrow
+Oración de Paz III
+Headlong Rush III
 Trampa Dolorosa III
-Cuchillaza de Vï¿½rtice III
-Oraciï¿½n de Paz IV
-Ataque Frontal IV
+Cuchillaza de Vórtice III
+Oración de Paz IV
+Headlong Rush IV
 Trampa Dolorosa IV
-Cuchillaza de Vï¿½rtice IV
+Cuchillaza de Vórtice IV
 Trampa Dolorosa V
-Cuchillaza de Vï¿½rtice V
+Cuchillaza de Vórtice V
 Trampa Dolorosa VI
-Cuchillaza de Vï¿½rtice VI
-Cuchillaza de Vï¿½rtice VII
-Cuchillaza de Vï¿½rtice VIII
-Cuchillaza de Vï¿½rtice IX
-Cuchillaza de Vï¿½rtice X
-Cuchillaza de Vï¿½rtice XI
+Cuchillaza de Vórtice VI
+Cuchillaza de Vórtice VII
+Cuchillaza de Vórtice VIII
+Cuchillaza de Vórtice IX
+Cuchillaza de Vórtice X
+Cuchillaza de Vórtice XI
 Ataque Cercano I
 Ataque Letal I
-Vida de Arun I
+Arun's Vitae I
 HB-1
 Bombardeo de Escudo I
-Auto Cura I
-SobrePoder I
+Curate a Ti Mismo I
+OverPoder I
 Retirada Glaciar I
-Invisibilidad
+Shrouded Escape
 Golpe Combativo I
 Ataque Cercano II
 Ataque Letal II
-Vida de Arun II
+Arun's Vitae II
 HB-2
 Bombardeo de Escudo II
-Auto Cura II
-SobrePoder II
+Curate a Ti Mismo II
+OverPoder II
 Retirada Glaciar II
 Golpe Combativo II
 Ataque Cercano III
 Ataque Letal III
-Vida de Arun III
+Arun's Vitae III
 HB-3
 Bombardeo de Escudo III
-Auto Cura III
+Curate a Ti Mismo III
 Retirada Glaciar III
 Golpe Combativo III
 Ataque Cercano IV
 Ataque Letal IV
-Vida de Arun IV
+Arun's Vitae IV
 HB-4
 Bombardeo de Escudo IV
-Auto Cura IV
+Curate a Ti Mismo IV
 Retirada Glaciar IV
 Golpe Combativo IV
 Ataque Cercano V
 Ataque Letal V
-Vida de Arun V
+Arun's Vitae V
 HB-5
 Bombardeo de Escudo V
-Auto Cura V
+Curate a Ti Mismo V
 Retirada Glaciar V
 Golpe Combativo V
 Ataque Cercano VI
 Ataque Letal VI
-Vida de Arun VI
+Arun's Vitae VI
 HB-6
 Bombardeo de Escudo VI
-Auto Cura VI
+Curate a Ti Mismo VI
 Retirada Glaciar VI
 Golpe Combativo VI
 Ataque Cercano VII
-Vida de Arun VII
+Arun's Vitae VII
 HB-7
 Bombardeo de Escudo VII
-Auto Cura VII
+Curate a Ti Mismo VII
 Retirada Glaciar VII
 Golpe Combativo VII
 Ataque Cercano VIII
-Vida de Arun VIII
+Arun's Vitae VIII
 Bombardeo de Escudo VIII
-Auto Cura VIII
+Curate a Ti Mismo VIII
 Retirada Glaciar VIII
 Golpe Combativo VIII
 Ataque Cercano IX
-Vida de Arun IX
+Arun's Vitae IX
 Bombardeo de Escudo IX
-Auto Cura IX
+Curate a Ti Mismo IX
 Retirada Glaciar IX
 Golpe Combativo IX
 Ataque Cercano X
-Vida de Arun X
+Arun's Vitae X
 Bombardeo de Escudo X
-Auto Cura X
+Curate a Ti Mismo X
 Golpe Combativo X
-Vida de Arun XI
+Arun's Vitae XI
 Bombardeo de Escudo XI
-Auto Cura XI
+Curate a Ti Mismo XI
 Golpe Combativo XI
-Auto Cura XII
+Curate a Ti Mismo XII
 Flecha Venenosa I
 Tenacidad I
 ST-1
 Pledge of Protection
-Curaciï¿½n Enfocada I
+Curación Enfocada I
 Tenacidad I
 Mana Siphon
 Furia en Aumento I
-Curaciï¿½n Enfocada I
+Curación Enfocada I
 Flecha Venenosa II
 Tenacidad II
 ST-2
-Curaciï¿½n Enfocada II
+Curación Enfocada II
 Tenacidad II
 Furia en Aumento II
-Curaciï¿½n Enfocada II
+Curación Enfocada II
 Flecha Venenosa III
 Tenacidad III
 ST-3
-Curaciï¿½n Enfocada III
+Curación Enfocada III
 Tenacidad III
 Furia en Aumento III
-Curaciï¿½n Enfocada III
+Curación Enfocada III
 Flecha Venenosa IV
 ST-4
-Curaciï¿½n Enfocada IV
+Curación Enfocada IV
 Furia en Aumento IV
-Curaciï¿½n Enfocada IV
+Curación Enfocada IV
 Flecha Venenosa V
-Curaciï¿½n Enfocada V
+Curación Enfocada V
 Furia en Aumento V
-Curaciï¿½n Enfocada V
+Curación Enfocada V
 Flecha Venenosa VI
-Curaciï¿½n Enfocada VI
+Curación Enfocada VI
 Furia en Aumento VI
-Curaciï¿½n Enfocada VI
+Curación Enfocada VI
 Flecha Venenosa VII
-Curaciï¿½n Enfocada VII
+Curación Enfocada VII
 Furia en Aumento VII
-Curaciï¿½n Enfocada VII
+Curación Enfocada VII
 Flecha Venenosa VIII
-Curaciï¿½n Enfocada VIII
+Curación Enfocada VIII
 Furia en Aumento VIII
-Curaciï¿½n Enfocada VIII
-Curaciï¿½n Enfocada IX
+Curación Enfocada VIII
+Curación Enfocada IX
 Furia en Aumento IX
 Furia en Aumento X
-Declaracion del Bandido
-Declaracion del Bandido
-IntenciÃ³n de asesinato
+Outlaw Declaration
+Outlaw Declaration
+Murderous Intent
 Alas Oscuras
 Almas Oscuras
 Corazones Oscuros
-Flecha de Restricciï¿½n I
+Flecha de Restricción I
 Inescapable Doom I
 Represalias I
-Onda Amenazadora
-BendiciÃ³n de Seren I
-A sangre frÃ­a I
+Menacing Wave
+Blessing of Seren I
+In Cold Blood I
 Bombardeo de Fuego I
 Cable Step
-Apuesta mortal I
+Deadly Gamble I
 Bombardeo de Fuego I
 Cable Step
-Flecha de Restricciï¿½n II
+Flecha de Restricción II
 Inescapable Doom II
 Represalias II
-BendiciÃ³n de Seren II
-A sangre frÃ­a II
+Blessing of Seren II
+In Cold Blood II
 Bombardeo de Fuego II
-Apuesta mortal II
+Deadly Gamble II
 Bombardeo de Fuego II
 Represalias III
 Bombardeo de Fuego III
@@ -1434,17 +1434,17 @@ Represalias VII
 Represalias VIII
 Represalias IX
 Represalias X
-Ojo de francotirador I
-Sed de sangre I
+Sniper's Eye I
+Bloodlust I
 Represalias I
 Comando: Llamar I
 Golpe de Bloqueo I
-BendiciÃ³n de Arachne
-Golpe agotador
-Agotamiento nervioso
+Blessing of Arachne
+Exhausting Blow
+Nerve Exhaustion
 Cascada de Aturdimientos I
-Ojo de francotirador II
-Sed de sangre II
+Sniper's Eye II
+Bloodlust II
 Represalias II
 Comando: Llamar II
 Golpe de Bloqueo II
@@ -1460,41 +1460,41 @@ Represalias VII
 Represalias VIII
 Represalias IX
 Represalias X
-Invocar: Arco iris
-Invocar: Corcel de muerte
-Invocar: Ventisquero
+Invocar: Rainbow
+Invocar: Death Charger
+Invocar: Snowdrift
 Salva Final I
-Lagrimas de Arun
-Command: Autodestruccion
-Voluntad de hierro I
-Escudo de Kaia I
+Arun's Tears
+Command: Self-Destruct
+Iron Will I
+Kaia's Shield I
 Aliento Ardiente I
-Puï¿½alada I
+Puñalada I
 Aliento Ardiente I
 Salva Final II
-Voluntad de hierro II
-Escudo de Kaia II
+Iron Will II
+Kaia's Shield II
 Aliento Ardiente II
-Puï¿½alada II
+Puñalada II
 Aliento Ardiente II
 Salva Final III
-Voluntad de hierro III
-Escudo de Kaia III
+Iron Will III
+Kaia's Shield III
 Aliento Ardiente III
 Aliento Ardiente III
 Salva Final IV
-Voluntad de hierro IV
-Escudo de Kaia IV
+Iron Will IV
+Kaia's Shield IV
 Aliento Ardiente IV
 Salva Final V
-Voluntad de hierro V
-Escudo de Kaia V
+Iron Will V
+Kaia's Shield V
 Salva Final VI
-Voluntad de hierro VI
+Iron Will VI
 Salva Final VII
 Salva Final VIII
-Trampa Conmociï¿½n Cerebral I
-Castigo Metamï¿½rfico I
+Trampa Conmoción Cerebral I
+Castigo Metamórfico I
 Comando: Quedarse/Seguir
 Correa del Maestro I
 Blessing of Balder I
@@ -1502,35 +1502,35 @@ Rebanada Medida I
 Mana Volley I
 Contragolpe Desestabilizante I
 Rebanada Medida I
-Trampa Conmociï¿½n Cerebral II
-Castigo Metamï¿½rfico II
+Trampa Conmoción Cerebral II
+Castigo Metamórfico II
 Correa del Maestro II
 Blessing of Balder II
 Rebanada Medida II
 Mana Volley II
 Contragolpe Desestabilizante II
 Rebanada Medida II
-Castigo Metamï¿½rfico III
+Castigo Metamórfico III
 Blessing of Balder III
-Castigo Metamï¿½rfico IV
+Castigo Metamórfico IV
 Blessing of Balder IV
-Castigo Metamï¿½rfico V
+Castigo Metamórfico V
 Blessing of Balder V
-Castigo Metamï¿½rfico VI
-Castigo Metamï¿½rfico VII
-Castigo Metamï¿½rfico VIII
-Castigo Metamï¿½rfico IX
-Castigo Metamï¿½rfico X
-Trampa de ensamblaje I
+Castigo Metamórfico VI
+Castigo Metamórfico VII
+Castigo Metamórfico VIII
+Castigo Metamórfico IX
+Castigo Metamórfico X
+Ensnaring Trap I
 Aplastamiento Evasivo I
 Lluvia de Maldiciones I
-Correa encadenada
+Chained Leash
 Eviscerate
-Estallido de Celeridad
+Burst of Celerity
 Agresor de Humo I
 Aplastamiento Evasivo I
 Lluvia de Maldiciones I
-Trampa de ensamblaje II
+Ensnaring Trap II
 Aplastamiento Evasivo II
 Lluvia de Maldiciones II
 Agresor de Humo II
@@ -1557,8 +1557,8 @@ Volley of Curses
 Lluvia de Maldiciones IX
 Agresor de Humo IX
 Trampa Explosiva I
-Desglosado
-Esclavo de Protecciï¿½n I
+Broking Down
+Esclavo de Protección I
 Ataque Fuerte I
 Represalias I
 Golpe Maestro Extremo I
@@ -1568,49 +1568,49 @@ Tiempo de Giro I
 Ataque Fuerte I
 Golpe Maestro Extremo I
 Trampa Explosiva II
-Esclavo de Protecciï¿½n II
+Esclavo de Protección II
 Ataque Fuerte II
 Represalias II
 Tiempo de Giro II
 Tiempo de Giro II
 Ataque Fuerte II
-Esclavo de Protecciï¿½n III
+Esclavo de Protección III
 Ataque Fuerte III
 Represalias III
 Tiempo de Giro III
 Tiempo de Giro III
 Ataque Fuerte III
-Esclavo de Protecciï¿½n IV
+Esclavo de Protección IV
 Ataque Fuerte IV
 Represalias IV
 Tiempo de Giro IV
 Ataque Fuerte IV
-Esclavo de Protecciï¿½n V
+Esclavo de Protección V
 Ataque Fuerte V
 Represalias V
 Ataque Fuerte V
-Esclavo de Protecciï¿½n VI
+Esclavo de Protección VI
 Ataque Fuerte VI
 Represalias VI
 Ataque Fuerte VI
-Esclavo de Protecciï¿½n VII
+Esclavo de Protección VII
 Ataque Fuerte VII
 Represalias VII
-Esclavo de Protecciï¿½n VIII
+Esclavo de Protección VIII
 Represalias VIII
-Esclavo de Protecciï¿½n IX
+Esclavo de Protección IX
 Represalias IX
-Esclavo de Protecciï¿½n X
+Esclavo de Protección X
 Represalias X
-Esclavo de Protecciï¿½n XI
-Esclavo de Protecciï¿½n XII
-Esclavo de Protecciï¿½n XIII
-Esclavo de Protecciï¿½n XIV
-Esclavo de Protecciï¿½n XV
-Esclavo de Protecciï¿½n XVI
-Esclavo de Protecciï¿½n XVII
+Esclavo de Protección XI
+Esclavo de Protección XII
+Esclavo de Protección XIII
+Esclavo de Protección XIV
+Esclavo de Protección XV
+Esclavo de Protección XVI
+Esclavo de Protección XVII
 Tackle
-Paso atrÃ¡s
+Backstep
 Escape Ardiente I
 Teleport
 Comando: Seguir
@@ -1624,9 +1624,9 @@ Escape Ardiente VIII
 Escape Ardiente IX
 Escape Ardiente X
 Escape Ardiente XI
-Irrompible
+Unbreakable
 Esclavo de la Vida I
-Grito de reuniÃ³n
+Rallying Cry
 Represalia Final I
 Tormenta de Granizo I
 Salto Repentino I
@@ -1675,18 +1675,18 @@ Esclavo de la Vida XI
 Esclavo de la Vida XII
 Esclavo de la Vida XIII
 Esclavo de la Vida XIV
-Ojo de Ã¡guila I
+Eagle's Eye I
 Intimidation
-Sueï¿½os Sonoros I
+Sueños Sonoros I
 Mana Charge
-Piel de piedra
+Stone Skin
 Corte Transversal I
-Sueï¿½os Sonoros I
+Sueños Sonoros I
 Corte Transversal I
-Ojo de Ã¡guila II
-Sueï¿½os Sonoros II
+Eagle's Eye II
+Sueños Sonoros II
 Corte Transversal II
-Sueï¿½os Sonoros II
+Sueños Sonoros II
 Corte Transversal II
 Corte Transversal III
 Corte Transversal III
@@ -1698,61 +1698,61 @@ Corte Transversal VI
 Corte Transversal VI
 Corte Transversal VII
 Corte Transversal VII
-Rayo
-Rollos Evasivos
-Regresiï¿½n I
+Thunderbolt
+Evasive Rolls
+Regresión I
 Triple Nemesis I
-Prisiï¿½n de Vï¿½rtice I
-Extracciï¿½n de Hoja I
-Extracciï¿½n de Hoja I
-Regresiï¿½n II
+Prisión de Vórtice I
+Extracción de Hoja I
+Extracción de Hoja I
+Regresión II
 Triple Nemesis II
-Corte de cuchilla II
-Corte de cuchilla II
+Blade Draw II
+Blade Draw II
 Triple Nemesis III
-Corte de cuchilla III
-Corte de cuchilla III
+Blade Draw III
+Blade Draw III
 Triple Nemesis IV
-Corte de cuchilla IV
-Corte de cuchilla IV
+Blade Draw IV
+Blade Draw IV
 Triple Nemesis V
-Corte de cuchilla V
-Corte de cuchilla V
+Blade Draw V
+Blade Draw V
 Triple Nemesis VI
-Corte de cuchilla VI
-Corte de cuchilla VI
+Blade Draw VI
+Blade Draw VI
 Triple Nemesis VII
-Corte de cuchilla VII
-Corte de cuchilla VII
+Blade Draw VII
+Blade Draw VII
 Triple Nemesis VIII
 Triple Nemesis IX
 Triple Nemesis X
 Triple Nemesis XI
-Contador de hacha
-Maldiciï¿½n de Agotamiento I
+Axe Counter
+Maldición de Agotamiento I
 Plaga de Agotamiento I
 Nova
-Guadaï¿½a I
-Maldiciï¿½n de Agotamiento I
-Maldiciï¿½n de Agotamiento II
+Guadaña I
+Maldición de Agotamiento I
+Maldición de Agotamiento II
 Plague of Exhaustion II
-Guadaï¿½a II
-Maldiciï¿½n de Agotamiento II
-Maldiciï¿½n de Agotamiento III
+Guadaña II
+Maldición de Agotamiento II
+Maldición de Agotamiento III
 Plague of Exhaustion III
 Plague of Exhaustion IV
 Plague of Exhaustion V
 Plague of Exhaustion VI
 Plague of Exhaustion VII
 Plague of Exhaustion VIII
-Tenacidad
-abrumador
-MaldiciÃ³n de la confusiÃ³n
-Santuario del guardiÃ¡n I
-Barrera de Deformacion
+Tenaciousness
+Overwhelm
+Curse of Confusion
+Guardian Sanctuary I
+Warp Barrier
 Corte de Cosecha I
-MaldiciÃ³n de la confusiÃ³n
-Santuario del guardiÃ¡n II
+Curse of Confusion
+Guardian Sanctuary II
 Corte de Cosecha II
 Corte de Cosecha III
 Corte de Cosecha IV
@@ -1761,13 +1761,13 @@ Corte de Cosecha VI
 Corte de Cosecha VII
 Corte de Cosecha VIII
 Corte de Cosecha IX
-Castigo de huelga
+Punishing Strike
 Lodo I
-Respiro Divino I
-Parada cruzada
+Divine Respite I
+Cross Parry
 Lodo I
 Lodo II
-Respiro Divino II
+Divine Respite II
 Lodo II
 Esclavo de la Venganza I
 Lullaen de Ishara I
@@ -1797,77 +1797,77 @@ Esclavo de la Venganza XIII
 Esclavo de la Venganza XIV
 Esclavo de la Venganza XV
 Esclavo de la Ira I
-ExplosiÃ³n restauradora I
-Espada vinculante
+Restorative Burst I
+Binding Sword
 Esclavo de la Ira II
-ExplosiÃ³n restauradora II
+Restorative Burst II
 Esclavo de la Ira III
-ExplosiÃ³n restauradora III
+Restorative Burst III
 Esclavo de la Ira IV
-ExplosiÃ³n restauradora IV
+Restorative Burst IV
 Esclavo de la Ira V
-ExplosiÃ³n restauradora V
+Restorative Burst V
 Esclavo de la Ira VI
-ExplosiÃ³n restauradora VI
+Restorative Burst VI
 Esclavo de la Ira VII
-ExplosiÃ³n restauradora VII
+Restorative Burst VII
 Esclavo de la Ira VIII
-ExplosiÃ³n restauradora VIII
-ExplosiÃ³n restauradora IX
-ExplosiÃ³n restauradora X
-ExplosiÃ³n restauradora XI
+Restorative Burst VIII
+Restorative Burst IX
+Restorative Burst X
+Restorative Burst XI
 Comando: Ataque
-Estrellas de energia I
+Energy Stars I
 Enfurecer I
-Estrellas de energia I
-Estrellas de energia II
-Estrellas de energia II
-Estrellas de energia III
-Estrellas de energia III
-Estrellas de energia IV
-Estrellas de energia IV
+Energy Stars I
+Energy Stars II
+Energy Stars II
+Energy Stars III
+Energy Stars III
+Energy Stars IV
+Energy Stars IV
 Comando: Seguir
-Epifanï¿½a de la Diosa I
-TÃ³tem guardiÃ¡n I
-InmersiÃ³n Curativa I
-InmersiÃ³n Curativa I
-TÃ³tem guardiÃ¡n II
-InmersiÃ³n Curativa II
-TÃ³tem numÃ©rico
-Paso atrÃ¡s
-Totem de velocidad
-Gracia de la resurrecciÃ³n
-TÃ³tem Asesino
-Recarga rodante
-VÃ³rtice de Zenobia
-Paso de Sombra
-Paso de Sombra
-Contagio
-IntervenciÃ³n Divina
-Pulso BumerÃ¡n
-Invocar: Nexus Caballo de guerra
-Invocar: Pesadilla
-Invocar: Pesadilla
-Invocar: Frostlion Regal
-Invocar: Frostlion Regal
-Invocar: leÃ³n enjoyado
-Invocar: leÃ³n enjoyado
+Epifanía de la Diosa I
+Warding Totem I
+Healing Immersion I
+Healing Immersion I
+Warding Totem II
+Healing Immersion II
+Numbing Totem
+Backstep
+Speed Totem
+Grace of Resurrection
+Assailing Totem
+Rolling Reload
+Zenobia's Vortex
+Shadow Step
+Shadow Step
+Contagion
+Divine Intervention
+Pulso Boomerang
+Invocar: Nexus Warhorse
+Invocar: Night Mare
+Invocar: Night Mare
+Invocar: Regal Frostlion
+Invocar: Regal Frostlion
+Invocar: Jeweled Lion
+Invocar: Jeweled Lion
 Invocar: Sleipnir
 Invocar: Sleipnir
-Invocar: Rompehuesos
-Invocar: Rompehuesos
-Invocar: Rompehuesos
+Invocar: Boneshaker
+Invocar: Boneshaker
+Invocar: Boneshaker
 Invocar: Munchhausen
 Invocar: Gourmando
-Invocar: Arco iris
-Invocar: Ventisquero
-Invocar: Ventisquero
+Invocar: Rainbow
+Invocar: Snowdrift
+Invocar: Snowdrift
 
 Invocar: EX-TRM
-Invocar: LeÃ³n Ligero
-Invocar: Alfombra Festiva
-Invocar: Patos
-Invocar: Harry El sucio
+Invocar: Light Lion
+Invocar: Festive Carpet
+Invocar: Waddles
+Invocar: Harry Porker
 Invocar: Boss
 Invocar: Petunia
 Invocar: Quackerjack
@@ -1877,74 +1877,74 @@ Invocar: Carmine
 Invocar: Carmine
 Invocar: Sparky
 Invocar: Sparky
-Invocar: Pato Blanco Afro
-Invocar: Pato Negro Afro  (Estamina)
-nvocar: Corcel de Sombra
-Invocar: Corcel de Muerte
-Invocar: Alfombra de Rootstock
-Invocar: Alfombra de Moonsilk
+Invocar: White Afro Duck
+Invocar: Black Afro Duck (Estamina)
+Invocar: Shadow Steed
+Invocar: Death Charger
+Invocar: Rootstock Carpet
+Invocar: Moonsilk Carpet
 Invocar: Harley
 Invocar: Lupus Obscurus
-Invocar: Tigre de nieve
-Invocar: Listo para la batalla Tigre de nieve
-Invocar: tigre de bengala
-Invocar: Listo para la batalla Tigre de Bengala
+Invocar: Snow Tiger
+Invocar: Battle Ready Snow Tiger
+Invocar: Bengal Tiger
+Invocar: Battle Ready Bengal Tiger
 Invocar: Lupus Aeris
 Invocar: Lupus Aeris
 Invocar: Lupus Noctus
 Invocar: Lupus Argentum
-Invocar: Cebra EÃ³lica
-[Evento] Invocar: mica
-Invoca Tigre Blanco
-Invoca estruendoso Tigre blanco blindado
-Invoca tigre feroz 
-Invoca estruendoso feroz Tigre blindado
+Invocar: Aeolian Zebra
+[Event] Invocar: Glimmer
+Invoca White Tiger
+Invoca Roaring Armored White Tiger
+Invoca Fierce Tiger
+Invoca Roaring Armored Fierce Tiger
 Invocar: Tigerinho
-Invocar: Soccer Mania Partidario Tigre Blanco
-Invocar: Soccer Mania Gigante Coreano Tigre
-Invocar: Soccer Mania Gigante Tigre Blanco Coreano
-Invocar: Corcel negro de CÃºpula ArbÃ³reo
+Invocar: Soccer Mania Supporter White Tiger
+Invocar: Soccer Mania Giant Korean Tiger us
+Invocar: Soccer Mania Giant Korean White Tiger us
+Invocar: Tamed Arborean Black Steed
 Invocar: Quackerjack
 Invocar: Duckerberg
-Invocar: Pato Blanco Afro
-Invocar: Pato Negro Afro (Estamina)
-Invocar: Ookami azul
-Invocar: cola de rescoldo
-[Anterior Beneficio] Invocar: Arco iris
-[Invite A Friend Event] Invocar: Leona
-Invocar: coche de policia
-Invocar: corazÃ³n carmesÃ­
-Invocar: LeÃ³n Jeweled (15 DÃ­as)
+Invocar: White Afro Duck
+Invocar: Black Afro Duck (Estamina)
+Invocar: Blue Ookami
+Invocar: Ember Tail
+[Previous Benefit] Invocar: Rainbow
+[Invite A Friend Event] Invocar: Lioness
+Invocar: Police Car
+Invocar: Crimsonheart
+Invocar: Jeweled Lion (15 Days)
 Invocar: Fyrewing
 Invocar: Trekking Kumas
-Invocar: alegres wintera kumas de navidad
-Invocar: Charitable Wintera Mordedura de nieve
-Invocar: Kumas NavideÃ±os Caritativos
-Invocar: Mordedura de la nieve caritativa
+Invocar: Cheerful Wintera Christmas Kumas
+Invocar: Charitable Wintera Snowbite
+Invocar: Charitable Christmas Kumas
+Invocar: Charitable Snowbite
 
 
 
 
 
 Invocar: Ember
-Invocar: Corcel de Sombra
+Invocar: Shadow Steed
 Invocar: Electrum Wind
-Invocar: Corcel de Muerte
-Invocar: Leopardo
+Invocar: Death Charger
+Invocar: Tawny Huntress
 Invocar: Saolo
 Invocar: Soccer Mania Southern White Tiger
-Invocar: Soccer Mania Gigante Tigre BrasileÃ±o
-Invocar: Soccer Mania Gigante Blanco Tigre BrasileÃ±o
-Invocar: Cola helada
-Invocar: cola de rescoldo
-Invocar: coche de policia
-Invocar: Goldwing
-Invocar: Kumas Bola De Nieve
-Invocar: Kumas De LatÃ³n
-Invocar: Bola de Nieve Gigante de MuÃ±eco de Nieve
-Invocar: Kumas de Navidad Wintera
+Invocar: Soccer Mania Giant Brazilian Tiger
+Invocar: Soccer Mania Giant White Brazilian Tiger
+Invocar: Frost Tail
+Invocar: Ember Tail
+Invocar: Police Car
+Invocar: Goldwing 
+Invocar: Snowball Kumas
+Invocar: Brass Kumas
+Invocar: Snowball Giant Snowman
+Invocar: Wintera Christmas Kumas
 
-Invocar: Rudolf el muÃ±eco de nieve gigante
+Invocar: Rudolf the Giant Snowman
 
 
 
@@ -1959,38 +1959,38 @@ Invocar: Lupus Aeris
 Invocar: Lupus Aeris
 Invocar: Lupus Noctus
 Invocar: Lupus Argentum
-Invocar: CorazÃ³n rajado
+Invocar: Slasheart
 Invocar: Lupus Obscurus
 Invocar: Lupus Aeris
 Invocar: Lupus Aeris
 Invocar: Lupus Noctus
 Invocar: Lupus Argentum
-Invocar: fuerza de mica
-Invocar: fuerza de mica
-Invocar: brillo de mica
-Invocar: brillo de mica
-Invocar: corazÃ³n micÃ¡ceo
-Invocar: corazÃ³n micÃ¡ceo
+Invocar: Glimmerforce
+Invocar: Glimmerforce
+Invocar: Glimmershine
+Invocar: Glimmershine
+Invocar: Glimmerheart
+Invocar: Glimmerheart
 Invocar: Lupus Noctus
 Invocar: Lupus Noctus
-Invocar: Resplandor de ceniza
-Invocar: Resplandor de ceniza
-Invocar: CorazÃ³n de Cenicienta
-Invocar: CorazÃ³n de Cenicienta
+Invocar: Cinderglow
+Invocar: Cinderglow
+Invocar: Cinderheart
+Invocar: Cinderheart
 Invocar: Lupus Obscurus
-Invocar: Nexus Caballo de guerra
-Invocar: Cebra EÃ³lica
-Invocar: Corcel de Muerte
-Invocar: CorazÃ³n de blitz
-Invocar: CorazÃ³n de blitz
-Invocar: CorazÃ³n templado
-Invocar: CorazÃ³n templado
-Invocar: CorazÃ³n rajado
-Invocar: CorazÃ³n rajado
-Invocar: Tigre A
+Invocar: Nexus Warhorse
+Invocar: Aeolian Zebra
+Invocar: Death Charger
+Invocar: Blitzheart
+Invocar: Blitzheart
+Invocar: Temperheart
+Invocar: Temperheart
+Invocar: Slasheart
+Invocar: Slasheart
+Invocar: Tiger A
 Invocar: Tiger B
-Invocar: tigre de bengala
-Invocar: Listo para la batalla Tigre de Bengala
+Invocar: Bengal Tiger
+Invocar: Battle Ready Bengal Tiger
 Invocar: Tiger B
 Invocar: Tiger B
 Invocar: Tiger B
@@ -2004,106 +2004,204 @@ Invocar: Tiger D
 Invocar: Tiger D
 Invocar: Tiger D
 Invocar: Saolo
-Invocar: Saolo EnergÃ©tico
-Invocar: Duro Saolo
-Invocar: Saolo incansable
+Invocar: Energetic Saolo
+Invocar: Tough Saolo
+Invocar: Tireless Saolo
 Invocar: Saolo
-Invocar: Saolo EnergÃ©tico
-Invocar: Duro Saolo
-Invocar: Saolo incansable
+Invocar: Energetic Saolo
+Invocar: Tough Saolo
+Invocar: Tireless Saolo
 Invocar: Paolo
-Invocar: Paolo EnergÃ©tico
-Invocar: Duro Paolo
-Invocar: Paolo incansable
+Invocar: Energetic Paolo
+Invocar: Tough Paolo
+Invocar: Tireless Paolo
 Invocar: Paolo
-Invocar: Paolo EnergÃ©tico
-Invocar: Duro Paolo
-Invocar: Paolo incansable
+Invocar: Energetic Paolo
+Invocar: Tough Paolo
+Invocar: Tireless Paolo
 Invocar: Tigerinho
-Invocar: Tigerinho EnergÃ©tico
-Invocar: Duro Tigerinho
-Invocar: Tigerinho Incansable
+Invocar: Energetic Tigerinho
+Invocar: Tough Tigerinho
+Invocar: Tireless Tigerinho
 Invocar: Tigerinho
-Invocar: Tigerinho EnergÃ©tico
-Invocar: Duro Tigerinho
-Invocar: Tigerinho Incansable
+Invocar: Energetic Tigerinho
+Invocar: Tough Tigerinho
+Invocar: Tireless Tigerinho
 Invocar: Tigeraldo
-Invocar: Tigeraldo EnergÃ©tico
-Invocar: Duro Tigeraldo
-Invocar: Tigeraldo Incansable
+Invocar: Energetic Tigeraldo
+Invocar: Tough Tigeraldo
+Invocar: Tireless Tigeraldo
 Invocar: Tigeraldo
-Invocar: Tigeraldo EnergÃ©tico
-Invocar: Duro Tigeraldo
-Invocar: Tigeraldo Incansable
-Invocar: Cola helada
-Invocar: Cola helada
-Invocar: Cola helada
-Invocar: Cola helada
-Invocar: Cola helada
-Invocar: Cola helada
-Invocar: Cola helada
-Invocar: Legendaria Cola helada
-Invocar: leÃ³n enjoyado
-Invocar: cola de rescoldo
-Invocar: cola de rescoldo
-Invocar: cola de rescoldo
-Invocar: cola de rescoldo
-Invocar: cola de rescoldo
-Invocar: cola de rescoldo
-Invocar: cola de rescoldo
-Invocar: Legendaria cola de rescoldo
-Invocar: coche de policia
-Invocar: coche de policia
-Invocar: coche de policia sintonizado
-Invocar: coche de policia sintonizado
-Invocar: Coche de policÃ­a pulido
-Invocar: Coche de policÃ­a pulido
-Invocar: coche de policÃ­a gaseado
-Invocar: coche de policÃ­a gaseado
-Invocar: Arco iris legendario
-Invocar: Sleipnir MÃ­tico
-Invocar: FÃ¡bula Pesadilla
-Invocar: legendaria bailarina de huesos
-Invocar: Ventisca mÃ­tica
-Invocar: Legendario Leopardo
+Invocar: Energetic Tigeraldo
+Invocar: Tough Tigeraldo
+Invocar: Tireless Tigeraldo
+Invocar: Frost Tail
+Invocar: Frost Tail
+Invocar: Frost Tail
+Invocar: Frost Tail
+Invocar: Frost Tail
+Invocar: Frost Tail
+Invocar: Frost Tail
+Invocar: Legendary Frost Tail
+Invocar: Jeweled Lion
+Invocar: Ember Tail
+Invocar: Ember Tail
+Invocar: Ember Tail
+Invocar: Ember Tail
+Invocar: Ember Tail
+Invocar: Ember Tail
+Invocar: Ember Tail
+Invocar: Legendary Ember Tail
+Invocar: Police Car
+Invocar: Police Car
+Invocar: Tuned Police Car
+Invocar: Tuned Police Car
+Invocar: Polished Police Car
+Invocar: Polished Police Car
+Invocar: Gassed-Up Police Car
+Invocar: Gassed-Up Police Car
+Invocar: Legendary Rainbow
+Invocar: Mythical Sleipnir
+Invocar: Fabled Night Mare
+Invocar: Legendary Bone Dancer
+Invocar: Mythical Snowdrift
+Invocar: Fabled Tawny Huntress
 Invocar: Fyrewing
 Invocar: Fyrewing
-Invocar: Fyrewing MÃ­tico
-Invocar: Fyrewing MÃ­tico
-Invocar: Legendario Fyrewing
-Invocar: Legendario Fyrewing
-Invocar: Fyrewing legendario
-Invocar: Fyrewing legendario
+Invocar: Mythical Fyrewing
+Invocar: Mythical Fyrewing
+Invocar: Fabled Fyrewing
+Invocar: Fabled Fyrewing
+Invocar: Legendary Fyrewing
+Invocar: Legendary Fyrewing
 Invocar: Trekking Kumas
 Invocar: Trekking Kumas
-Invocar: Kumas Trekking Alegre
-Invocar: Kumas Trekking Alegre
-Invocar: Jumial Trekking Kumas
-Invocar: Jumial Trekking Kumas
-Invocar: Kumas de Trekking de caridad
-Invocar: Kumas de Trekking de caridad
-Invocar: Kumas de Navidad Wintera
-Invocar: Kumas de Navidad Wintera
-Invocar: alegres wintera kumas de navidad
-Invocar: alegres wintera kumas de navidad
-Invocar: Jumial Wintera Kumas De Navidad
-Invocar: Jumial Wintera Kumas De Navidad
-Invocar: Kumas de Navidad Wintera caritativas
-Invocar: Kumas de Navidad Wintera caritativas
-Invocar: Wintera Mordedura de nieve
+Invocar: Cheerful Trekking Kumas
+Invocar: Cheerful Trekking Kumas
+Invocar: Jovial Trekking Kumas
+Invocar: Jovial Trekking Kumas
+Invocar: Charitable Trekking Kumas
+Invocar: Charitable Trekking Kumas
+Invocar: Wintera Christmas Kumas
+Invocar: Wintera Christmas Kumas
+Invocar: Cheerful Wintera Christmas Kumas
+Invocar: Cheerful Wintera Christmas Kumas
+Invocar: Jovial Wintera Christmas Kumas
+Invocar: Jovial Wintera Christmas Kumas
+Invocar: Charitable Wintera Christmas Kumas
+Invocar: Charitable Wintera Christmas Kumas
+Invocar: Wintera Snowbite
+Invocar: Wintera Snowbite
+Invocar: Cheerful Wintera Snowbite
+Invocar: Cheerful Wintera Snowbite
+Invocar: Jovial Wintera Snowbite
+Invocar: Jovial Wintera Snowbite
+Invocar: Charitable Wintera Snowbite
+Invocar: Charitable Wintera Snowbite
+Invocar: Christmas Kumas
+Invocar: Christmas Kumas
+Invocar: Cheerful Christmas Kumas
+Invocar: Cheerful Christmas Kumas
+Invocar: Jovial Christmas Kumas
+Invocar: Jovial Christmas Kumas
+Invocar: Charitable Christmas Kumas
+Invocar: Charitable Christmas Kumas
+Invocar: Snowbite
+Invocar: Snowbite
+Invocar: Cheerful Snowbite
+Invocar: Cheerful Snowbite
+Invocar: Jovial Snowbite
+Invocar: Jovial Snowbite
+Invocar: Charitable Snowbite
+Invocar: Charitable Snowbite
+Invocar: Goldwing 
+Invocar: Goldwing 
+Invocar: Mythical Goldwing 
+Invocar: Mythical Goldwing 
+Invocar: Fabled Goldwing 
+Invocar: Fabled Goldwing 
+Invocar: Legendary Goldwing 
+Invocar: Legendary Goldwing 
+
+
+
+
+
+
+
+
+Invoca Mascota: Zero
+Invoca Mascota: Miss Katonic
+Invoca Mascota: Pinkie
+Invoca Mascota: Bonzai
+Invoca Mascota: Zero
+Invoca Mascota: Rusty
+Invoca Mascota: Rainie
+Invoca Mascota: Bonzai
+Invoca Mascota: Addams
+Invoca Mascota: Rusty
+Invoca Mascota: Rainie
+Invocar: Paolo
+Invocar: Tigeraldo
+Invocar: Fyrewing
+Invocar: Mythical Fyrewing
+Invocar: Fabled Fyrewing
+Invocar: Legendary Fyrewing
+Invocar: Energetic Boneshaker
+Invocar: Tough Boneshaker
+Invocar: Legendary Bone Dancer
+Invocar: Energetic EX-TRM
+Invocar: Tough EX-TRM
+Invocar: Tireless EX-TRM
+Invoca Mascota: Miss Kitty
+Invoca Mascota: Willoe
+Invoca Mascota: Dundee
+Invoca Mascota: Chef
+Invoca Mascota: Rocky
+Invoca Mascota: Madmartigan
+Invoca Mascota: Bam Bam
+Invoca Mascota: Bonzai
+Invoca Mascota: Zero
+Invoca Mascota: Clawd
+Invoca Mascota: Juicy
+Invoca Mascota: Flaps
+Invoca Mascota: Zero (1-Day)
+Invoca Mascota: Miss Katonic (1-Day)
+Invoca Mascota: Pinkie (1-Day)
+Invoca Mascota: Rusty (1-Day)
+Invoca Mascota: Rainie (1-Day)
+Invoca Mascota: Pinkie
+Invoca Mascota: Rusty
+Invoca Mascota: Rainie
+Activate Noctenium Solution
+Invocar: Fortuna
+Invocar: Fides
+Invocar: Virtus
+Invocar: Brave Black Lion
+Invocar: Loyal Black Lion
+Invocar: Brave Black Steed
+Invocar: Loyal Black Steed
+Invocar: Glorious Black Lion
+Invocar: Glorious Black Steed
+Invocar: Brave White Lion
+Invocar: Loyal White Lion
+Invocar: Brave White Steed
+Invocar: Loyal White Steed
+Invocar: Glorious White Lion
+Invocar: Glorious White Steed
 Tambores de Kaiator
 Resonancia de Core
 Tambores de Kaiator
 Resonancia de Core
 Cuerno de Velik
 Cuerno de Velik
-Ãšltimo Aman
-Antiguo manantial
-Escaramuza corriendo
-Infusiï¿½n de Core
-Posiciï¿½n Fuerte
-Presencia calmante
-EjecuciÃ³n del horizonte
+Last Aman Standing
+Ancient Wellspring
+Skirmish Running
+Infusión de Core
+Posición Fuerte
+Soothing Presence
+Horizon Run
 Invoca Regulus
 
 
@@ -2113,82 +2211,20 @@ Invoca Regulus
 
 
 
-Invocar: Oso polar
-Invocar: Valiente Oso polar
-Invocar: Duro Oso polar
-Invocar: Leal Oso polar
-Invocar: Grizzly Oso
-Invocar: Valiente Grizzly Oso
-Invocar: Duro Grizzly Oso
-Invocar: Leal Grizzly Oso
+Invocar: Polar Bear
+Invocar: Brave Polar Bear
+Invocar: Tough Polar Bear
+Invocar: Loyal Polar Bear
+Invocar: Grizzly Bear
+Invocar: Brave Grizzly Bear
+Invocar: Tough Grizzly Bear
+Invocar: Loyal Grizzly Bear
 Invocar: Panda
-Invocar: Valiente Panda
-Invocar: Duro Panda
-Invocar: Leal Panda
-Invocar: Oso polar
-Invocar: Grizzly Oso
-Invocar: Panda
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Invocar: Deportivo GX800
-Invocar: Deportivo Sintonizado GX800
-Invocar: Pulido Deportivo GX800
-Invocar: Deportivo a Gas GX800
-Invocar: Deportivo SX800
-Invocar: Deportivo Sintonizado SX800
-Invocar: Pulido Deportivo SX800
-Invocar: Deportivo a Gas SX800
-Invocar: Deportivo RX800
-Invocar: Deportivo Sintonizado RX800
-Invocar: Pulido Deportivo RX800
-Invocar: Deportivo a Gas RX800
-
-
-
-
-
-
-Invocar: Oso polar
-Invocar: Oso polar
-Invocar: Valiente Oso polar
-Invocar: Valiente Oso polar
-Invocar: Duro Oso polar
-Invocar: Duro Oso polar
-Invocar: Leal Oso polar
-Invocar: Leal Oso polar
-Invocar: Grizzly Oso
-Invocar: Grizzly Oso
-Invocar: Valiente Grizzly Oso
-Invocar: Valiente Grizzly Oso
-Invocar: Duro Grizzly Oso
-Invocar: Duro Grizzly Oso
-Invocar: Leal Grizzly Oso
-Invocar: Leal Grizzly Oso
-Invocar: Panda
-Invocar: Panda
-Invocar: Valiente Panda
-Invocar: Valiente Panda
-Invocar: Duro Panda
-Invocar: Duro Panda
-Invocar: Leal Panda
-Invocar: Leal Panda
-Invocar: Oso polar
-Invocar: Oso polar
-Invocar: Grizzly Oso
-Invocar: Grizzly Oso
-Invocar: Panda
+Invocar: Brave Panda
+Invocar: Tough Panda
+Invocar: Loyal Panda
+Invocar: Polar Bear
+Invocar: Grizzly Bear
 Invocar: Panda
 
 
@@ -2204,30 +2240,92 @@ Invocar: Panda
 
 
 
-Invocar: Deportivo GX800
-Invocar: Deportivo GX800
-Invocar: Deportivo Sintonizado GX800
-Invocar: Deportivo Sintonizado GX800
-Invocar: Pulido Deportivo GX800
-Invocar: Pulido Deportivo GX800
-Invocar: Deportivo a Gas GX800
-Invocar: Deportivo a Gas GX800
-Invocar: Deportivo SX800
-Invocar: Deportivo SX800
-Invocar: Deportivo Sintonizado SX800
-Invocar: Deportivo Sintonizado SX800
-Invocar: Pulido Deportivo SX800
-Invocar: Pulido Deportivo SX800
-Invocar: Deportivo a Gas SX800
-Invocar: Deportivo a Gas SX800
-Invocar: Deportivo RX800
-Invocar: Deportivo RX800
-Invocar: Deportivo Sintonizado RX800
-Invocar: Deportivo Sintonizado RX800
-Invocar: Pulido Deportivo RX800
-Invocar: Pulido Deportivo RX800
-Invocar: Deportivo a Gas RX800
-Invocar: Deportivo a Gas RX800
+Invocar: Sport GX800
+Invocar: Tuned Sport GX800
+Invocar: Polished Sport GX800
+Invocar: Gassed-Up Sport GX800
+Invocar: Sport SX800
+Invocar: Tuned Sport SX800
+Invocar: Polished Sport SX800
+Invocar: Gassed-Up Sport SX800
+Invocar: Sport RX800
+Invocar: Tuned Sport RX800
+Invocar: Polished Sport RX800
+Invocar: Gassed-Up Sport RX800
+
+
+
+
+
+
+Invocar: Polar Bear
+Invocar: Polar Bear
+Invocar: Brave Polar Bear
+Invocar: Brave Polar Bear
+Invocar: Tough Polar Bear
+Invocar: Tough Polar Bear
+Invocar: Loyal Polar Bear
+Invocar: Loyal Polar Bear
+Invocar: Grizzly Bear
+Invocar: Grizzly Bear
+Invocar: Brave Grizzly Bear
+Invocar: Brave Grizzly Bear
+Invocar: Tough Grizzly Bear
+Invocar: Tough Grizzly Bear
+Invocar: Loyal Grizzly Bear
+Invocar: Loyal Grizzly Bear
+Invocar: Panda
+Invocar: Panda
+Invocar: Brave Panda
+Invocar: Brave Panda
+Invocar: Tough Panda
+Invocar: Tough Panda
+Invocar: Loyal Panda
+Invocar: Loyal Panda
+Invocar: Polar Bear
+Invocar: Polar Bear
+Invocar: Grizzly Bear
+Invocar: Grizzly Bear
+Invocar: Panda
+Invocar: Panda
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Invocar: Sport GX800
+Invocar: Sport GX800
+Invocar: Tuned Sport GX800
+Invocar: Tuned Sport GX800
+Invocar: Polished Sport GX800
+Invocar: Polished Sport GX800
+Invocar: Gassed-Up Sport GX800
+Invocar: Gassed-Up Sport GX800
+Invocar: Sport SX800
+Invocar: Sport SX800
+Invocar: Tuned Sport SX800
+Invocar: Tuned Sport SX800
+Invocar: Polished Sport SX800
+Invocar: Polished Sport SX800
+Invocar: Gassed-Up Sport SX800
+Invocar: Gassed-Up Sport SX800
+Invocar: Sport RX800
+Invocar: Sport RX800
+Invocar: Tuned Sport RX800
+Invocar: Tuned Sport RX800
+Invocar: Polished Sport RX800
+Invocar: Polished Sport RX800
+Invocar: Gassed-Up Sport RX800
+Invocar: Gassed-Up Sport RX800
 
 
 
@@ -2248,134 +2346,134 @@ Invocar: Deportivo a Gas RX800
 
 Invocar: Blitzshine
 Invocar: Blitzforce
-Invocar: CorazÃ³n de blitz
-Invocar: brillo de mica
-Invocar: fuerza de mica
-Invocar: corazÃ³n micÃ¡ceo
+Invocar: Blitzheart
+Invocar: Glimmershine
+Invocar: Glimmerforce
+Invocar: Glimmerheart
 Invocar: Tempershine
 Invocar: Temperforce
-Invocar: CorazÃ³n templado
+Invocar: Temperheart
 Invocar: Cindershine
 Invocar: Cinderforce
-Invocar: CorazÃ³n de Cenicienta 
+Invocar: Cinderheart 
 Invocar: Slashshine
 Invocar: Slashforce
-Invocar: CorazÃ³n rajado
-Invocar: MÃ­tico Cola helada
-Invocar: Legendario Cola helada
-Invocar: MÃ­tico cola de rescoldo
-Invocar: Legendario cola de rescoldo
-Invocar: Oso polar
-Invocar: Valiente Oso polar
-Invocar: Duro Oso polar
-Invocar: Leal Oso polar
-Invocar: Grizzly Oso
-Invocar: Valiente Grizzly Oso
-Invocar: Duro Grizzly Oso
-Invocar: Leal Grizzly Oso
+Invocar: Slasheart
+Invocar: Mythical Frost Tail
+Invocar: Fabled Frost Tail
+Invocar: Mythical Ember Tail
+Invocar: Fabled Ember Tail
+Invocar: Polar Bear
+Invocar: Brave Polar Bear
+Invocar: Tough Polar Bear
+Invocar: Loyal Polar Bear
+Invocar: Grizzly Bear
+Invocar: Brave Grizzly Bear
+Invocar: Tough Grizzly Bear
+Invocar: Loyal Grizzly Bear
 Invocar: Panda
-Invocar: Valiente Panda
-Invocar: Duro Panda
-Invocar: Leal Panda
+Invocar: Brave Panda
+Invocar: Tough Panda
+Invocar: Loyal Panda
 Invocar: Golden Hog
-Invocar: Valiente Golden Hog
-Invocar: Duro Golden Hog
-Invocar: Leal Golden Hog
-Invocar: Dragon verde 
-Invocar: MÃ­tico Dragon verde
-Invocar: Legendario Dragon verde
-Invocar: Legendaria Dragon verde
-Invocar: Dragon Negro
-Invocar: MÃ­tico Dragon Negro
-Invocar: Legendario Dragon Negro
-Invocar: Legendaria Dragon Negro
-Invocar: Dragon plateado
-Invocar: MÃ­tico Dragon plateado
-Invocar: Legendario Dragon plateado
-Invocar: Legendaria Dragon plateado
-Invocar: MÃ­tico Arco iris
-Invocar: Legendario Arco iris
-Invocar: Legendaria Arco iris
-Invocar: Deportivo RX800 Turbo
-Invocar: Deportivo Sintonizado RX800 Turbo
-Invocar: Pulido Deportivo RX800 Turbo
-Invocar: Deportivo a Gas RX800 Turbo
-Invocar: Deportivo SX800 Turbo
-Invocar: Deportivo Sintonizado SX800 Turbo
-Invocar: Pulido Deportivo SX800 Turbo
-Invocar: Deportivo a Gas SX800 Turbo
-Invocar: Deportivo GX800 Turbo
-Invocar: Deportivo Sintonizado GX800 Turbo
-Invocar: Pulido Deportivo GX800 Turbo
-Invocar: Deportivo a Gas GX800 Turbo
-Invocar: Deportivo RX850 Turbo
-Invocar: Deportivo SX850 Turbo
-Invocar: Deportivo GX850 Turbo
-Invocar: MÃ­tico Pesadilla
-Invocar: Legendario Pesadilla
-Invocar: Legendaria Pesadilla
-Invocar: Raro Dragon Negro
-Invocar: Valiente Patos
-Invocar: Duro Patos
-Invocar: Leal Patos
-Invocar: Valiente Harry El sucio
-Invocar: Duro Harry El sucio (HP)
-Invocar: Harry El sucio
-Invocar: Harry El sucio
-Invocar: Valiente Boss
-Invocar: Duro Boss
-Invocar: Leal Boss
-Invocar: Valiente Petunia
-Invocar: Duro Petunia
-Invocar: Leal Petunia
-Invocar: Valiente Harley
-Invocar: Duro Harley
+Invocar: Brave Golden Hog
+Invocar: Tough Golden Hog
+Invocar: Loyal Golden Hog
+Invocar: Green dragon 
+Invocar: Mythical Green dragon
+Invocar: Fabled Green dragon
+Invocar: Legendary Green dragon
+Invocar: Black dragon
+Invocar: Mythical Black dragon
+Invocar: Fabled Black dragon
+Invocar: Legendary Black dragon
+Invocar: Silver dragon
+Invocar: Mythical Silver dragon
+Invocar: Fabled Silver dragon
+Invocar: Legendary Silver dragon
+Invocar: Mythical Rainbow
+Invocar: Fabled Rainbow
+Invocar: Legendary Rainbow
+Invocar: Sport RX800 Turbo
+Invocar: Tuned Sport RX800 Turbo
+Invocar: Polished Sport RX800 Turbo
+Invocar: Gassed-Up Sport RX800 Turbo
+Invocar: Sport SX800 Turbo
+Invocar: Tuned Sport SX800 Turbo
+Invocar: Polished Sport SX800 Turbo
+Invocar: Gassed-Up Sport SX800 Turbo
+Invocar: Sport GX800 Turbo
+Invocar: Tuned Sport GX800 Turbo
+Invocar: Polished Sport GX800 Turbo
+Invocar: Gassed-Up Sport GX800 Turbo
+Invocar: Sport RX850 Turbo
+Invocar: Sport SX850 Turbo
+Invocar: Sport GX850 Turbo
+Invocar: Mythical Night Mare
+Invocar: Fabled Night Mare
+Invocar: Legendary Night Mare
+Invocar: Rare Black dragon
+Invocar: Brave Waddles
+Invocar: Tough Waddles
+Invocar: Loyal Waddles
+Invocar: Brave Harry Porker
+Invocar: Tough Harry Porker (HP)
+Invocar: Harry Porker
+Invocar: Harry Porker
+Invocar: Brave Boss
+Invocar: Tough Boss
+Invocar: Loyal Boss
+Invocar: Brave Petunia
+Invocar: Tough Petunia
+Invocar: Loyal Petunia
+Invocar: Brave Harley
+Invocar: Tough Harley
 Invocar: Harley
-Invocar: Llama MÃ¡gica 
-Invocar: Pepita
-Invocar: Trufa
-Invocar: Escarabajo vivaz
-Invocar: Energetico Escarabajo vivaz
-Invocar: Duro Escarabajo vivaz
-Invocar: Incansable Escarabajo vivaz
-Invocar: Escarabajo daÃ±ino
-Invocar: Energetico Escarabajo daÃ±ino
-Invocar: Duro Escarabajo daÃ±ino
-Invocar: Incansable Escarabajo daÃ±ino
-Invocar: Escarabajo fuerte
-Invocar: Energetico Escarabajo fuerte
-Invocar: Duro Escarabajo fuerte
-Invocar: Incansable Escarabajo fuerte
-Invocar: Raro Escarabajo vivaz
-Invocar: Raro Energetico Escarabajo vivaz
-Invocar: Escarabajo animado raro
-Invocar: Raro Incansable Escarabajo vivaz
-Invocar: Raro Escarabajo daÃ±ino
-Invocar: Raro Energetico Escarabajo daÃ±ino
-Invocar: Raro Duro Escarabajo daÃ±ino
-Invocar: Raro Incansable Escarabajo daÃ±ino
-Invocar: Raro Escarabajo fuerte
-Invocar: Raro Energetico Escarabajo fuerte
-Invocar: Raro Duro Escarabajo fuerte
-Invocar: Raro Incansable Escarabajo fuerte
-Invocar: Cola Esmeralda
-Invocar: Cola MÃ­tica Esmeraldada
-Invocar: Cola de esmeralda de fÃ¡bula
-Invocar: Legendaria Cola Esmeralda
-Invocar: Cola de coral
-Invocar: MÃ­tico Cola de coral
-Invocar: Cola de coral de la fÃ¡bula
-Invocar: Cola de coral legendaria
-Invocar: Unicornio
-Invocar: MÃ­tico Unicornio
-Invocar: Legendario Unicornio
-Invocar: Legendaria Unicornio
-Invocar: Raro Cola Esmeralda
-Invocar: Raro Agate Tail
-Invocar: Raro Unicornio
-Invocar: coche de policia sintonizado
-Invocar: Pulido Coche de policia
-Invocar: Coche de policia a gas
+Invocar: Magic Flame
+Invocar: Nugget
+Invocar: Truffle
+Invocar: Lively beetle
+Invocar: Energetic Lively beetle
+Invocar: Tough Lively beetle
+Invocar: Tireless Lively beetle
+Invocar: Harmful beetle
+Invocar: Energetic Harmful beetle
+Invocar: Tough Harmful beetle
+Invocar: Tireless Harmful beetle
+Invocar: Strong beetle
+Invocar: Energetic Strong beetle
+Invocar: Tough Strong beetle
+Invocar: Tireless Strong beetle
+Invocar: Rare Lively beetle
+Invocar: Rare Energetic Lively beetle
+Invocar: Rare Tough Lively beetle
+Invocar: Rare Tireless Lively beetle
+Invocar: Rare Harmful beetle
+Invocar: Rare Energetic Harmful beetle
+Invocar: Rare Tough Harmful beetle
+Invocar: Rare Tireless Harmful beetle
+Invocar: Rare Strong beetle
+Invocar: Rare Energetic Strong beetle
+Invocar: Rare Tough Strong beetle
+Invocar: Rare Tireless Strong beetle
+Invocar: Emerald Tail
+Invocar: Mythical Emerald Tail
+Invocar: Fabled Emerald Tail
+Invocar: Legendary Emerald Tail
+Invocar: Coral Tail
+Invocar: Mythical Coral Tail
+Invocar: Fabled Coral Tail
+Invocar: Legendary Coral Tail
+Invocar: Unicorn
+Invocar: Mythical Unicorn
+Invocar: Fabled Unicorn
+Invocar: Legendary Unicorn
+Invocar: Rare Emerald Tail
+Invocar: Rare Agate Tail
+Invocar: Rare Unicorn
+Invocar: Tuned Police Car
+Invocar: Polished Police Car
+Invocar: Gassed-Up Police Car
 Kick
 Feromona de cerdo
 Golpe de Tambor
@@ -2384,98 +2482,98 @@ Golpe de Tambor
 {@RawItem:45294}
 {@RawItem:45299}
 Saludo Placentero
-Mutar (Regalo de Balder)
-Aturdir (Regalo de Balder)
-Miedo (Regalo de Balder)
-Luz (Regalo de Balder)
-Castigar (Regalo de Balder)
-Terremoto (Regalo de Balder)
-Colectivista
-Solicitud de Adiar
-MisiÃ³n sindical
-Solicitud de Derene
-NÃºcleo duro
-La solicitud de Frateko
-Invocar: Tienda Quartermaster
-Invocar: Baliza De InfiltraciÃ³n
-Invocar: Guardia
+Mutate (Balder's Gift)
+Stun (Balder's Gift)
+Fear (Balder's Gift)
+Light (Balder's Gift)
+Punish (Balder's Gift)
+Quake (Balder's Gift)
+Collectivist
+Adiar's Request
+Union Mission
+Derene's Request
+Hard Core
+Frateko's Request
+Invocar: Quartermaster Shop
+Invocar: Infiltration Beacon
+Invocar: Guard
 Invocar: Free Traders Guard
-Invocar: Guardia de la UniÃ³n Iluminada
-Invocar: Guardia de orden de hierro
-Invocar: Barricada
-Invocar: CaÃ±on
-Aura tenaz
-Aura duradera
-Aura de todo corazÃ³n
-TransformaciÃ³n: MuÃ±eco de nieve verde de Wintera
-TransformaciÃ³n: MuÃ±eco de nieve amarillo de Wintera
-TransformaciÃ³n: MuÃ±eco de nieve azul de Wintera
-TransformaciÃ³n: MuÃ±eco de nieve rojo de Wintera
-Barrera de nieve
-Ponernos en marcha da bomba
-Invoca Mascota: Planta CarnÃ­vora
+Invocar: Enlightened Union Guard
+Invocar: Iron Order Guard
+Invocar: Barricade
+Invocar: Cannon
+Tenacious Aura
+Enduring Aura
+Wholehearted Aura
+Transformation: Green Wintera Snowman
+Transformation: Yellow Wintera Snowman
+Transformation: Blue Wintera Snowman
+Transformation: Red Wintera Snowman
+Snow Barrage
+Set Us Up Da Bomb
+Invoca Mascota: Carnivorous Plant
 Invoca Mascota: Prince
 Invoca Mascota: Totes
 Invoca Mascota: Candyspinner
 Invoca Mascota: Fetch
 Invoca Mascota: Dragonette
 Invoca Mascota: Rambo
-Invoca Mascota: Mejillas
+Invoca Mascota: Cheeks
 Invoca Mascota: Boo
 Invoca Mascota: Boo
-Invoca Mascota: Felicidad
-Invoca Mascota: Mejillas
+Invoca Mascota: Ser Picks-a-lot
+Invoca Mascota: Cheeks
 Invoca Mascota: Peddit
 Invoca Mascota: Caddy
-Invoca Mascota: Felicidad
-Invoca Mascota: Cero
+Invoca Mascota: Ser Picks-a-lot
+Invoca Mascota: Zero
 Invoca Mascota: Candyspinner
 Invoca Mascota: Dragonette
 Invoca Mascota: Rambo
-Invoca Mascota: Planta CarnÃ­vora
+Invoca Mascota: Carnivorous Plant
 Invoca Mascota: Prince
 Invoca Mascota: Boo
-Batalla estÃ¡ndar
-Batalla estÃ¡ndar
-Batalla estÃ¡ndar
-FortificaciÃ³n
-FortificaciÃ³n
-FortificaciÃ³n
-Carrera loca
-Carrera loca
-Carrera loca
-OraciÃ³n de batalla
-OraciÃ³n de batalla
-OraciÃ³n de batalla
-Aumento de XP de Exarch
-Escaneo de ubicaciÃ³n
-Meteorito
-BendiciÃ³n del Comandante
-La salvaciÃ³n del comandante
-BendiciÃ³n del Comandante
-La salvaciÃ³n del comandante
-Meteorito
-Meteorito
-Meteorito
-Meteorito
-Meteorito
-El aumento de XP de Exarch I
-El aumento de XP de Exarch II
-El aumento de XP de Exarch III
-El aumento de XP de Exarch IV
-El aumento de XP de Exarch V
-El aumento de XP de Exarch VI
-Refuerzo PvP de Exarch
-Refuerzo PvP de Exarch I
-Refuerzo PvP de Exarch II
-Refuerzo PvP de Exarch III
-Refuerzo PvP de Exarch IV 
-Refuerzo PvP de Exarch V
-Refuerzo PvP de Exarch VI
-Fortaleza de Exarch
-Fortaleza de Exarch I
-Fortaleza de Exarch II
-Fortaleza de Exarch III
-Fortaleza de Exarch IV
-Fortaleza de Exarch V
-Fortaleza de Exarch VI
+Battle Standard
+Battle Standard
+Battle Standard
+Fortification
+Fortification
+Fortification
+Mad Dash
+Mad Dash
+Mad Dash
+Battle Prayer
+Battle Prayer
+Battle Prayer
+Exarch's XP Boost
+Location Scan
+Meteor
+Commander's Blessing
+Commander's Salvation
+Commander's Blessing
+Commander's Salvation
+Meteor
+Meteor
+Meteor
+Meteor
+Meteor
+Exarch's XP Boost I
+Exarch's XP Boost II
+Exarch's XP Boost III
+Exarch's XP Boost IV
+Exarch's XP Boost V
+Exarch's XP Boost VI
+Exarch's PvP Bolster
+Exarch's PvP Bolster I
+Exarch's PvP Bolster II
+Exarch's PvP Bolster III
+Exarch's PvP Bolster IV
+Exarch's PvP Bolster V
+Exarch's PvP Bolster VI
+Exarch's Fortitude
+Exarch's Fortitude I
+Exarch's Fortitude II
+Exarch's Fortitude III
+Exarch's Fortitude IV
+Exarch's Fortitude V
+Exarch's Fortitude VI
